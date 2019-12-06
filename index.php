@@ -47,9 +47,19 @@
 
     <!--    blocks1-->
     <div class="blocksField">
+        <div class="header_blocks">ПОРТМОНЕ</div>
         <div class="block">
             <div class="element">
-
+                <div class="block_photo">
+                    <div class="col_1"><a class="ph1" href="images/portmone/black/1.jpg"></a></div>
+                    <div class="col_2"></div>
+                </div>
+                <div class="name_goods">
+                    РЮКЗАК "GEOMETRIC BLACK ETNO"
+                </div>
+                <div class="description">
+                    Розмір 32х24х8 Рюкзак з одним великим відділенням та кишенькою для дрібниць. На спинці є кишеня під замок.  Матеріал екошкіра, всередині войлок. Шлейки регулюються
+                </div>
             </div>
             <div class="element">
 
