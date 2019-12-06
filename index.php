@@ -5,12 +5,21 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="indexCSS.css">
     <title>Document</title>
+
+    <link rel="stylesheet" href="indexCSS.css">
+    <link rel="stylesheet" href="formCSS.css">
+
+    <!-- Magnific Popup core CSS file -->
+    <link rel="stylesheet" href="jquery/magnific-popup.css">
+
+    <!-- jQuery 1.7.2+ or Zepto.js 1.0+ -->
+    <script src="jquery/jquery.magnific-popup.min.js"></script>
+
+    <!-- Magnific Popup core JS file -->
+    <script src="jquery/jquery.magnific-popup.js"></script>
 </head>
-
 <body>
-
 <header>
     <nav class="nav">
         <div class="logo_header"><a href="index.php">PELLETTERIA</a></div>
@@ -26,7 +35,7 @@
 </header>
 <main>
     <div id="background">
-<!--        background photo-->
+        <!--        background photo-->
     </div>
     <div id="logo">
         <div>
@@ -36,7 +45,7 @@
         </div>
     </div>
     <!--testform-->
-    <form action="form.php" method="post">
+    <form action="form.php" method="post" class="popup" id="popup1">
         <input name="type" style="display: none" type="text" value="Набор TRY с портативной лампой (<s>985</s>грн) 689грн">
         <label for="number">Номер телефона *</label><br>
         <input class="input" id="number" name="number" type="text" value="+ (380) ">
@@ -46,10 +55,15 @@
         <input class="input" id="city" name="city" type="text"><br>
         <label for="email">Электронная почта</label><br>
         <input class="input" id="email" name="email" type="email"><br>
-
         <input class="button" type="submit" value="КУПИТЬ">
     </form>
     <!--testform-->
+    <button class="show_popup" rel="popup1">Купить товар</button>
+    <div class="overlay_popup"></div>
 </main>
 </body>
 </html>
+
+<script src="jquery/jquery-3.4.1.min.js"></script>
+<script src="script.js"></script>
+
