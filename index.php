@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <header>
-    <nav>
+    <nav class="nav">
         <div class="logo_header"></div>
         <ul>
             <li>Портмоне</li>
