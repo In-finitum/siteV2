@@ -1,4 +1,4 @@
-*{box-sizing: border-box}
+*{box-sizing: border-box; font-family: "Arial", Serif;}
 html{
     width: 100%;
 }
@@ -10,7 +10,6 @@ header{
     position: fixed;
     width: 100%;
     font-weight: bold;
-    font-family: "Arial", Serif;
     background-color: #C5A78A;
     padding: 25px 0 25px 0;
     color: #3d241c;
@@ -43,10 +42,10 @@ header ul{
 .logo_header a::after{
     content: '';
     display: block;
-    border-bottom: 2px solid #3d241c;
+    border-bottom: 3px solid #3d241c;
 }
 .contacts_header{
-    font-size: 18px;
+    font-size: 19px;
     font-weight: bold;
 }
 header ul li a{
@@ -56,10 +55,10 @@ header ul li a{
     display: block;
 }
 header ul li a{
-    border-bottom: 2px solid transparent;
+    border-bottom: 3px solid transparent;
 }
 header ul li a:hover{
-    border-bottom: 2px solid #3d241c;
+    border-bottom: 3px solid #3d241c;
 }
 
 /*inf*/
