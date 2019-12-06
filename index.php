@@ -29,7 +29,11 @@
 <!--        background photo-->
     </div>
     <div id="logo">
-
+        <div>
+            <div>Pelletteria</div>
+            <div>український бренд шкіряних виробів</div>
+            <div>лише ручна робота</div>
+        </div>
     </div>
     <!--testform-->
     <form action="form.php" method="post">

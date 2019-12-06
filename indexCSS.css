@@ -79,5 +79,21 @@ header ul li a:hover{
     height: 550px;
     width: 100%;
     background-color: rgba(0, 0, 0, 0.65);
+    text-align: center;
+    color: white;
+}
+#logo>div div{
+    margin: 0 auto;
+}
+#logo>div>div:first-child{
+    font-size: 120px;
+    padding: 60px 0px 60px 0px;
+}
+#logo>div>div:nth-child(2){
+    font-size: 25px;
+    padding-bottom: 30px;
+}
+#logo>div>div:last-child{
+    font-size: 20px;
 }
 /*inf*/
