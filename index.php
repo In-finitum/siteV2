@@ -16,7 +16,7 @@
             <li>Бананки</li>
             <li>Відгуки</li>
             <li>Про нас</li>
-        </ul>
+        </ul>qq
         <div class="contacts_header"></div>
     </nav>
 </header>
