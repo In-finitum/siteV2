@@ -8,6 +8,9 @@
     <link rel="stylesheet" href="indexCSS.css">
     <title>Document</title>
 </head>
+
+<body>
+
 <header>
     <nav class="nav">
         <div class="logo_header"><a href="index.php">PELLETTERIA</a></div>
@@ -21,7 +24,7 @@
         <div class="contacts_header"></div>
     </nav>
 </header>
-<body>
+
 <!--testform-->
 <form action="form.php" method="post">
     <input name="type" style="display: none" type="text" value="Набор TRY с портативной лампой (<s>985</s>грн) 689грн">
