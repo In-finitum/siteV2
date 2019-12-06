@@ -36,6 +36,6 @@
 
     <input class="button" type="submit" value="КУПИТЬ">
 </form>
-<!--testform-->wdwkd
+<!--testform-->wdwkddsd
 </body>
 </html>
