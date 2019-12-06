@@ -44,6 +44,26 @@
             <div>лише ручна робота</div>
         </div>
     </div>
+
+    <!--    blocks1-->
+    <div class="blocksField">
+        <div class="block">
+            <div class="element">
+
+            </div>
+            <div class="element">
+
+            </div>
+            <div class="element">
+
+            </div>
+            <div class="element">
+
+            </div>
+        </div>
+    </div>
+    <!--    blocks1-->
+
     <!--testform-->
     <form action="form.php" method="post" class="popup" id="popup1">
         <input name="type" style="display: none" type="text" value="Набор TRY с портативной лампой (<s>985</s>грн) 689грн">

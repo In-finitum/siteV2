@@ -73,6 +73,7 @@ header ul li a:hover{
     background-size: cover;
 }
 
+/*inf.logo*/
 #logo{
     padding-top: 75px;
     height: 550px;
@@ -95,4 +96,26 @@ header ul li a:hover{
 #logo>div>div:last-child{
     font-size: 20px;
 }
+/*inf.logo*/
+
+/*inf.goods*/
+.blocksField{
+    width: 100%;
+    background-color: white;
+}
+.block{
+    margin: 0 auto;
+    max-width: 1300px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.element{
+    width: 620px;
+    height: 620px;
+    border: 1px solid black;
+    /*box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.76);*/
+}
+/*inf.goods*/
+
 /*inf*/
