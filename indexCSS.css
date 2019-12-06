@@ -8,8 +8,21 @@ html, body {
 }
 header{
     width: 100%;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Arial", Serif;
 }
-nav{
+.nav{
     display: flex;
-    flex-direction: row;
+    justify-content: space-between;
+    max-width: 1300px;
+    margin: 0 auto;
+}
+header ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    width: 700px;
 }
