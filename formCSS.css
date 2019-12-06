@@ -1,0 +1,23 @@
+.input{
+    outline: none;
+    border-radius: 5px;
+    width: 100%;
+    border: 1px solid black;
+    padding: 5px;
+}
+.button{
+    background-color: rgb(209, 75, 66);
+    outline: none;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    width: 100%;
+    line-height: 45px;
+    transition-duration: 0.5s;
+    cursor: pointer;
+    margin-top: 15px;
+}
+.button:hover{
+    transform: scale(1.05);
+    opacity: 0.9;
+}
