@@ -36,6 +36,6 @@
 
     <input class="button" type="submit" value="КУПИТЬ">
 </form>
-<!--testform-->kl
+<!--testform-->
 </body>
 </html>
