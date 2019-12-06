@@ -32,7 +32,7 @@ header ul{
 }
 .logo_header{
     font-size: 20px;
-
+    background: transparent;
 }
 .logo_header a{
     outline: none;
