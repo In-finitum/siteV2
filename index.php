@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-<!--form-->
+<!--testform-->
 <form action="form.php" method="post">
     <input name="type" style="display: none" type="text" value="Набор TRY с портативной лампой (<s>985</s>грн) 689грн">
     <label for="number">Номер телефона *</label><br>
@@ -22,6 +22,6 @@
 
     <input class="button" type="submit" value="КУПИТЬ">
 </form>
-<!--form-->
+<!--testform-->
 </body>
 </html>
