@@ -39,6 +39,6 @@
 
     <input class="button" type="submit" value="КУПИТЬ">
 </form>
-<!--testform-->vlad okishevxzxzxqweqwe
+<!--testform-->vlad okishevxzxzx
 </body>
 </html>
