@@ -76,6 +76,7 @@
         <label for="email">Электронная почта</label><br>
         <input class="input" id="email" name="email" type="email"><br>
         <input class="button" type="submit" value="КУПИТЬ">
+        <input class="close" type="button" value="close">
     </form>
     <!--testform-->
     <button class="show_popup" rel="popup1">Купить товар</button>

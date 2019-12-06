@@ -3,9 +3,11 @@ $(document).ready(function () {
         var popup_id = $('#' + $(this).attr("rel"));
         $(popup_id).show();
         $('.overlay_popup').show();
+        // document.body.style.overflow = 'hidden';
     });
-    $('overlay_popup').click(function () {
+    $('.close').click(function () {
         $('.overlay_popup, .popup').hide();
+        document.body.style.overflow = 'auto';
     });
 });
 
