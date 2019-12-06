@@ -8,15 +8,18 @@ html, body {
 }
 header{
     width: 100%;
-    font-size: 20px;
     font-weight: bold;
     font-family: "Arial", Serif;
+    background-color: #C5A78A;
+    padding: 25px 0 25px 0;
+    color: #3d241c;
 }
 .nav{
     display: flex;
     justify-content: space-between;
     max-width: 1300px;
     margin: 0 auto;
+    align-items: center;
 }
 header ul{
     list-style-type: none;
@@ -25,4 +28,32 @@ header ul{
     display: flex;
     justify-content: space-between;
     width: 700px;
+    font-size: 18px;
+}
+.logo_header{
+    font-size: 20px;
+
+}
+.logo_header a{
+    outline: none;
+    color: #3d241c;
+    text-decoration: none;
+}
+.logo_header a::after{
+    content: '';
+    display: block;
+    border-bottom: 2px solid #3d241c;
+}
+header ul li a{
+    outline: none;
+    text-decoration: none;
+    color: #3d241c;
+    display: block;
+
+}
+header ul li a{
+    padding: 5px;
+}
+header ul li:hover{
+    border-bottom: 2px solid #3d241c;
 }
