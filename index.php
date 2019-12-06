@@ -28,6 +28,9 @@
     <div id="background">
 <!--        background photo-->
     </div>
+    <div style="height: 2000px; width: 100%; background-color: rgba(0,0,0,0.71)">
+
+    </div>
     <!--testform-->
     <form action="form.php" method="post">
         <input name="type" style="display: none" type="text" value="Набор TRY с портативной лампой (<s>985</s>грн) 689грн">
