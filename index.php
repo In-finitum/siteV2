@@ -7,6 +7,19 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
 </head>
+<header>
+    <nav>
+        <div class="logo_header"></div>
+        <ul>
+            <li>Портмоне</li>
+            <li>Блокноти</li>
+            <li>Бананки</li>
+            <li>Відгуки</li>
+            <li>Про нас</li>
+        </ul>
+        <div class="contacts_header"></div>
+    </nav>
+</header>
 <body>
 <!--testform-->
 <form action="form.php" method="post">
