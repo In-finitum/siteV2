@@ -448,7 +448,7 @@
 
 </main>
 <div class="feedback_block">
-    <div class="header_feedback">ВІДГУКІ</div>
+    <div class="header_feedback">ВІДГУКИ</div>
     <div class="feedback_container">
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" style="height: 100%">
             <div class="carousel-inner" style="height: 100%">
