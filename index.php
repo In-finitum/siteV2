@@ -12,9 +12,6 @@
 
     <!-- Magnific Popup core CSS file -->
     <link rel="stylesheet" href="jquery/magnific-popup.css">
-    <!-- For icon links -->
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
-          integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
 
     <!-- jQuery 1.7.2+ or Zepto.js 1.0+ -->
     <script src="jquery/jquery-3.4.1.min.js"></script>
@@ -54,303 +51,59 @@
         <div class="block">
             <div class="element">
                 <div class="block_photo">
-                    <div class="col_1"><a class="ph_left" href="images/portmone/black/2.jpg" title="Портмоне" style="background-image: url('images/portmone/black/2.jpg')"></a></div>
+                    <div class="col_1"><a class="ph_left" style="background-image: url('images/portmone/black/2.jpg')"></a></div>
                     <div class="col_2">
-                        <a class="ph_right" href="images/portmone/black/1.jpg" title="Портмоне" style="background-image: url('images/portmone/black/1.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/black/3.jpg" title="Портмоне" style="background-image: url('images/portmone/black/3.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/black/4.jpg" title="Портмоне" style="background-image: url('images/portmone/black/4.jpg')"></a>
+                        <a class="ph_right" style="background-image: url('images/portmone/black/1.jpg')"></a>
+                        <a class="ph_right" style="background-image: url('images/portmone/black/3.jpg')"></a>
+                        <a class="ph_right" style="background-image: url('images/portmone/black/4.jpg')"></a>
                     </div>
                 </div>
                 <div class="name_goods">
-                    ПОРТМОНЕ "PLEASE EDIT ME"
+                    РЮКЗАК "GEOMETRIC BLACK ETNO"
                 </div>
                 <div class="description">
-                    <div>
-                        - Матеріал : Натуральна шкіра.<br>
-                        - Шкіра : Crazy horse.<br>
-                        - Колір шкіри : Чорний<br>
-                        - Відділення для карт: 7.<br>
-                        - Відділеня для купюр: 2.<br>
-                    </div>
-                    <div>
-                        - Відділеня для монет: 1.<br>
-                        - Розмір у закритому вигляді: 9*17.<br>
-                        - Ціна дроп: 500 грн.<br>
-                        - Ціна опт: 450 грн.<br>
-                        - Ціна роздрібна: 800-1000 грн.<br>
-                    </div>
+                    Розмір 32х24х8 Рюкзак з одним великим відділенням та кишенькою для дрібниць. На спинці є кишеня під замок.  Матеріал екошкіра, всередині войлок. Шлейки регулюються
                 </div>
                 <div class="footer_element">
-                    <div class="price">&#x20b4; 850</div>
+                    <div class="price">&#x20b4; 999</div>
                     <div class="show_popup">ЗАМОВИТИ</div>
                 </div>
             </div>
             <div class="element">
-                <div class="block_photo">
-                    <div class="col_1"><a class="ph_left" href="images/portmone/red/2.jpg" title="Портмоне" style="background-image: url('images/portmone/red/2.jpg')"></a></div>
-                    <div class="col_2">
-                        <a class="ph_right" href="images/portmone/red/1.jpg" title="Портмоне" style="background-image: url('images/portmone/red/1.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/red/3.jpg" title="Портмоне" style="background-image: url('images/portmone/red/3.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/red/4.jpg" title="Портмоне" style="background-image: url('images/portmone/red/4.jpg')"></a>
-                    </div>
-                </div>
-                <div class="name_goods">
-                    ПОРТМОНЕ "PLEASE EDIT ME"
-                </div>
-                <div class="description">
-                    <div>
-                        - Матеріал : Натуральна шкіра.<br>
-                        - Шкіра : Crazy horse.<br>
-                        - Колір шкіри : Червоний<br>
-                        - Відділення для карт: 7.<br>
-                        - Відділеня для купюр: 2.<br>
-                    </div>
-                    <div>
-                        - Відділеня для монет: 1.<br>
-                        - Розмір у закритому вигляді: 9*17.<br>
-                        - Ціна дроп: 500 грн.<br>
-                        - Ціна опт: 450 грн.<br>
-                        - Ціна роздрібна: 800-1000 грн.<br>
-                    </div>
-                </div>
-                <div class="footer_element">
-                    <div class="price">&#x20b4; 850</div>
-                    <div class="show_popup">ЗАМОВИТИ</div>
-                </div>
+
             </div>
             <div class="element">
-                <div class="block_photo">
-                    <div class="col_1"><a class="ph_left" href="images/portmone/green/2.jpg" title="Портмоне" style="background-image: url('images/portmone/green/2.jpg')"></a></div>
-                    <div class="col_2">
-                        <a class="ph_right" href="images/portmone/green/1.jpg" title="Портмоне" style="background-image: url('images/portmone/green/1.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/green/3.jpg" title="Портмоне" style="background-image: url('images/portmone/green/3.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/green/4.jpg" title="Портмоне" style="background-image: url('images/portmone/green/4.jpg')"></a>
-                    </div>
-                </div>
-                <div class="name_goods">
-                    ПОРТМОНЕ "PLEASE EDIT ME"
-                </div>
-                <div class="description">
-                    <div>
-                        - Матеріал : Натуральна шкіра.<br>
-                        - Шкіра : Crazy horse.<br>
-                        - Колір шкіри : Зелений<br>
-                        - Відділення для карт: 7.<br>
-                        - Відділеня для купюр: 2.<br>
-                    </div>
-                    <div>
-                        - Відділеня для монет: 1.<br>
-                        - Розмір у закритому вигляді: 9*17.<br>
-                        - Ціна дроп: 500 грн.<br>
-                        - Ціна опт: 450 грн.<br>
-                        - Ціна роздрібна: 800-1000 грн.<br>
-                    </div>
-                </div>
-                <div class="footer_element">
-                    <div class="price">&#x20b4; 850</div>
-                    <div class="show_popup">ЗАМОВИТИ</div>
-                </div>
+
             </div>
             <div class="element">
-                <div class="block_photo">
-                    <div class="col_1"><a class="ph_left" href="images/portmone/broun/2.jpg" title="Портмоне" style="background-image: url('images/portmone/broun/2.jpg')"></a></div>
-                    <div class="col_2">
-                        <a class="ph_right" href="images/portmone/broun/1.jpg" title="Портмоне" style="background-image: url('images/portmone/broun/1.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/broun/3.jpg" title="Портмоне" style="background-image: url('images/portmone/broun/3.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/broun/4.jpg" title="Портмоне" style="background-image: url('images/portmone/broun/4.jpg')"></a>
-                    </div>
-                </div>
-                <div class="name_goods">
-                    ПОРТМОНЕ "PLEASE EDIT ME"
-                </div>
-                <div class="description">
-                    <div>
-                        - Матеріал : Натуральна шкіра.<br>
-                        - Шкіра : Crazy horse.<br>
-                        - Колір шкіри : Коричневий<br>
-                        - Відділення для карт: 7.<br>
-                        - Відділеня для купюр: 2.<br>
-                    </div>
-                    <div>
-                        - Відділеня для монет: 1.<br>
-                        - Розмір у закритому вигляді: 9*17.<br>
-                        - Ціна дроп: 500 грн.<br>
-                        - Ціна опт: 450 грн.<br>
-                        - Ціна роздрібна: 800-1000 грн.<br>
-                    </div>
-                </div>
-                <div class="footer_element">
-                    <div class="price">&#x20b4; 850</div>
-                    <div class="show_popup">ЗАМОВИТИ</div>
-                </div>
+
             </div>
         </div>
     </div>
     <!--    blocks1-->
-    <!--    blocks2-->
-    <div class="blocksField">
-        <div class="header_blocks">БАНАНКИ</div>
-        <div class="block">
-            <div class="element">
-                <div class="block_photo">
-                    <div class="col_1"><a class="ph_left" href="images/portmone/black/2.jpg" title="Портмоне" style="background-image: url('images/portmone/black/2.jpg')"></a></div>
-                    <div class="col_2">
-                        <a class="ph_right" href="images/portmone/black/1.jpg" title="Портмоне" style="background-image: url('images/portmone/black/1.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/black/3.jpg" title="Портмоне" style="background-image: url('images/portmone/black/3.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/black/4.jpg" title="Портмоне" style="background-image: url('images/portmone/black/4.jpg')"></a>
-                    </div>
-                </div>
-                <div class="name_goods">
-                    ПОРТМОНЕ "PLEASE EDIT ME"
-                </div>
-                <div class="description">
-                    <div>
-                        - Матеріал : Натуральна шкіра.<br>
-                        - Шкіра : Crazy horse.<br>
-                        - Колір шкіри : Чорний<br>
-                        - Відділення для карт: 7.<br>
-                        - Відділеня для купюр: 2.<br>
-                    </div>
-                    <div>
-                        - Відділеня для монет: 1.<br>
-                        - Розмір у закритому вигляді: 9*17.<br>
-                        - Ціна дроп: 500 грн.<br>
-                        - Ціна опт: 450 грн.<br>
-                        - Ціна роздрібна: 800-1000 грн.<br>
-                    </div>
-                </div>
-                <div class="footer_element">
-                    <div class="price">&#x20b4; 850</div>
-                    <div class="show_popup">ЗАМОВИТИ</div>
-                </div>
-            </div>
-            <div class="element">
-                <div class="block_photo">
-                    <div class="col_1"><a class="ph_left" href="images/portmone/black/2.jpg" title="Портмоне" style="background-image: url('images/portmone/black/2.jpg')"></a></div>
-                    <div class="col_2">
-                        <a class="ph_right" href="images/portmone/black/1.jpg" title="Портмоне" style="background-image: url('images/portmone/black/1.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/black/3.jpg" title="Портмоне" style="background-image: url('images/portmone/black/3.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/black/4.jpg" title="Портмоне" style="background-image: url('images/portmone/black/4.jpg')"></a>
-                    </div>
-                </div>
-                <div class="name_goods">
-                    ПОРТМОНЕ "PLEASE EDIT ME"
-                </div>
-                <div class="description">
-                    <div>
-                        - Матеріал : Натуральна шкіра.<br>
-                        - Шкіра : Crazy horse.<br>
-                        - Колір шкіри : Чорний<br>
-                        - Відділення для карт: 7.<br>
-                        - Відділеня для купюр: 2.<br>
-                    </div>
-                    <div>
-                        - Відділеня для монет: 1.<br>
-                        - Розмір у закритому вигляді: 9*17.<br>
-                        - Ціна дроп: 500 грн.<br>
-                        - Ціна опт: 450 грн.<br>
-                        - Ціна роздрібна: 800-1000 грн.<br>
-                    </div>
-                </div>
-                <div class="footer_element">
-                    <div class="price">&#x20b4; 850</div>
-                    <div class="show_popup">ЗАМОВИТИ</div>
-                </div>
-            </div>
-            <div class="element">
-                <div class="block_photo">
-                    <div class="col_1"><a class="ph_left" href="images/portmone/black/2.jpg" title="Портмоне" style="background-image: url('images/portmone/black/2.jpg')"></a></div>
-                    <div class="col_2">
-                        <a class="ph_right" href="images/portmone/black/1.jpg" title="Портмоне" style="background-image: url('images/portmone/black/1.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/black/3.jpg" title="Портмоне" style="background-image: url('images/portmone/black/3.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/black/4.jpg" title="Портмоне" style="background-image: url('images/portmone/black/4.jpg')"></a>
-                    </div>
-                </div>
-                <div class="name_goods">
-                    ПОРТМОНЕ "PLEASE EDIT ME"
-                </div>
-                <div class="description">
-                    <div>
-                        - Матеріал : Натуральна шкіра.<br>
-                        - Шкіра : Crazy horse.<br>
-                        - Колір шкіри : Чорний<br>
-                        - Відділення для карт: 7.<br>
-                        - Відділеня для купюр: 2.<br>
-                    </div>
-                    <div>
-                        - Відділеня для монет: 1.<br>
-                        - Розмір у закритому вигляді: 9*17.<br>
-                        - Ціна дроп: 500 грн.<br>
-                        - Ціна опт: 450 грн.<br>
-                        - Ціна роздрібна: 800-1000 грн.<br>
-                    </div>
-                </div>
-                <div class="footer_element">
-                    <div class="price">&#x20b4; 850</div>
-                    <div class="show_popup">ЗАМОВИТИ</div>
-                </div>
-            </div>
-            <div class="element">
-                <div class="block_photo">
-                    <div class="col_1"><a class="ph_left" href="images/portmone/black/2.jpg" title="Портмоне" style="background-image: url('images/portmone/black/2.jpg')"></a></div>
-                    <div class="col_2">
-                        <a class="ph_right" href="images/portmone/black/1.jpg" title="Портмоне" style="background-image: url('images/portmone/black/1.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/black/3.jpg" title="Портмоне" style="background-image: url('images/portmone/black/3.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/black/4.jpg" title="Портмоне" style="background-image: url('images/portmone/black/4.jpg')"></a>
-                    </div>
-                </div>
-                <div class="name_goods">
-                    ПОРТМОНЕ "PLEASE EDIT ME"
-                </div>
-                <div class="description">
-                    <div>
-                        - Матеріал : Натуральна шкіра.<br>
-                        - Шкіра : Crazy horse.<br>
-                        - Колір шкіри : Чорний<br>
-                        - Відділення для карт: 7.<br>
-                        - Відділеня для купюр: 2.<br>
-                    </div>
-                    <div>
-                        - Відділеня для монет: 1.<br>
-                        - Розмір у закритому вигляді: 9*17.<br>
-                        - Ціна дроп: 500 грн.<br>
-                        - Ціна опт: 450 грн.<br>
-                        - Ціна роздрібна: 800-1000 грн.<br>
-                    </div>
-                </div>
-                <div class="footer_element">
-                    <div class="price">&#x20b4; 850</div>
-                    <div class="show_popup">ЗАМОВИТИ</div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--    blocks2-->
+
     <!--testform-->
     <form action="form.php" method="post" class="popup" id="popup1">
-        <div><p>Оформити замовлення</p><i class="fas fa-times"></i></div>
-        <hr>
-        <div>
-            <input class="input" name="name" type="text" placeholder="Ім'я, прізвище">
-            <input class="number" name="number" type="text" placeholder="Телефон *">
-            <input class="input" name="city" type="text" placeholder="Місто">
-            <input class="email" name="email" type="email" placeholder="Електронна пошта">
-        </div>
-        <div>
-            <input class="send" type="submit" value="ПРИДБАТИ">
-        </div>
+        <input name="type" style="display: none" type="text" value="Набор TRY с портативной лампой (<s>985</s>грн) 689грн">
+        <label for="number">Номер телефона *</label><br>
+        <input class="input" id="number" name="number" type="text" value="+ (380) ">
+        <label for="name">Фамилия Имя Отчество *</label><br>
+        <input class="input" id="name" name="name" type="text"><br>
+        <label for="city">Город</label><br>
+        <input class="input" id="city" name="city" type="text"><br>
+        <label for="email">Электронная почта</label><br>
+        <input class="input" id="email" name="email" type="email"><br>
+        <input class="button" type="submit" value="КУПИТЬ">
+        <input class="close" type="button" value="close">
     </form>
     <!--testform-->
-    <!--FOR TEST-->
-
-
     <button class="show_popup" rel="popup1">Купить товар</button>
     <div class="overlay_popup"></div>
 </main>
 </body>
 </html>
 
-<!--<script src="jquery/jquery-3.4.1.min.js"></script>-->
+<script src="jquery/jquery-3.4.1.min.js"></script>
 <script src="script.js"></script>
 <script src ="JS/popup_photoJS.js"></script>
 
