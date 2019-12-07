@@ -54,11 +54,11 @@
         <div class="block">
             <div class="element">
                 <div class="block_photo">
-                    <div class="col_1"><a class="ph_left" style="background-image: url('images/portmone/black/2.jpg')"></a></div>
+                    <div class="col_1"><a class="ph_left" href="images/portmone/black/2.jpg" title="Портмоне" style="background-image: url('images/portmone/black/2.jpg')"></a></div>
                     <div class="col_2">
-                        <a class="ph_right" style="background-image: url('images/portmone/black/1.jpg')"></a>
-                        <a class="ph_right" style="background-image: url('images/portmone/black/3.jpg')"></a>
-                        <a class="ph_right" style="background-image: url('images/portmone/black/4.jpg')"></a>
+                        <a class="ph_right" href="images/portmone/black/1.jpg" title="Портмоне" style="background-image: url('images/portmone/black/1.jpg')"></a>
+                        <a class="ph_right" href="images/portmone/black/3.jpg" title="Портмоне" style="background-image: url('images/portmone/black/3.jpg')"></a>
+                        <a class="ph_right" href="images/portmone/black/4.jpg" title="Портмоне" style="background-image: url('images/portmone/black/4.jpg')"></a>
                     </div>
                 </div>
                 <div class="name_goods">
@@ -100,13 +100,16 @@
         </div>
     </form>
     <!--testform-->
+    <!--FOR TEST-->
+
+
     <button class="show_popup" rel="popup1">Купить товар</button>
     <div class="overlay_popup"></div>
 </main>
 </body>
 </html>
 
-<script src="jquery/jquery-3.4.1.min.js"></script>
+<!--<script src="jquery/jquery-3.4.1.min.js"></script>-->
 <script src="script.js"></script>
 <script src ="JS/popup_photoJS.js"></script>
 

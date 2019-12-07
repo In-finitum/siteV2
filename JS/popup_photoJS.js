@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $('.popup-gallery').magnificPopup({
+    $('.block_photo').magnificPopup({
         delegate: 'a',
         type: 'image',
         tLoading: 'Loading image #%curr%...',
@@ -12,7 +12,7 @@ $(document).ready(function() {
         image: {
             tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
             titleSrc: function(item) {
-                return item.el.attr('title') + '<small>by Marsel Van Oosten</small>';
+                return item.el.attr('title') + '<small>by PELLETTERIA</small>';
             }
         }
     });
