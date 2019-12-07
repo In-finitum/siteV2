@@ -128,12 +128,22 @@ header ul li a:hover{
     padding: 15px;
     box-shadow: 0 5px 12px 1px grey;
 }
+.catalog_blocks{
+    font-size: 30px;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    text-align: center;
+}
 .header_blocks, .header_feedback{
     font-size: 45px;
     font-weight: bold;
     padding-top: 40px;
     padding-bottom: 40px;
     text-align: center;
+}
+.header_blocks{
+    padding-top: 10px;
+    padding-bottom: 40px;
 }
 .block_photo{
     height: 320px;
@@ -168,7 +178,7 @@ header ul li a:hover{
 }
 .ph_right{
     width: 220px;
-    height: 100px;
+    height: 98px;
 }
 .ph_right_note{
     height: 154px;

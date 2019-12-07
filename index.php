@@ -63,6 +63,7 @@
 
     <!--    blocks1 begin-->
     <div class="blocksField">
+        <div class="catalog_blocks"">КАТАЛОГ</div>
         <div class="header_blocks">ПОРТМОНЕ</div>
         <div class="block">
             <div class="element">
