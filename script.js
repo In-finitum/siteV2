@@ -5,7 +5,7 @@ $(document).ready(function () {
         $('.overlay_popup').show();
         // document.body.style.overflow = 'hidden';
     });
-    $('.close').click(function () {
+    $('.fa-times').click(function () {
         $('.overlay_popup, .popup').hide();
         document.body.style.overflow = 'auto';
     });
