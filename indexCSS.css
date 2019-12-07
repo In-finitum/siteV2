@@ -13,6 +13,7 @@ header{
     background-color: #292929;
     padding: 25px 0 25px 0;
     color: white;
+    z-index: 1000;
 }
 .nav{
     display: flex;
@@ -127,7 +128,7 @@ header ul li a:hover{
     padding: 15px;
     box-shadow: 0 5px 12px 1px grey;
 }
-.header_blocks{
+.header_blocks, .header_feedback{
     font-size: 45px;
     font-weight: bold;
     padding-top: 40px;
@@ -178,7 +179,6 @@ header ul li a:hover{
 .price{
     font-weight: bold;
     font-size: 30px;
-
 }
 .footer_element{
     margin-top: 10px;
@@ -248,6 +248,16 @@ footer{
         margin: 0 auto;
         padding-right: 15px;
     }
+}
+.feedback_block{
+    background-color: rgba(245,245,245,0.96);
+    margin-bottom: 40px;
+    padding-bottom: 40px;
+}
+.feedback_container{
+    height: 600px;
+    width: 350px;
+    margin: 0 auto;
 }
 /*inf.adapt.header*/
 
