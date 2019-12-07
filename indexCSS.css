@@ -209,59 +209,6 @@ header ul li a:hover{
         padding-right: 15px;
     }
 }
-@media only screen and (min-width: 760px) and (max-width: 1000px){
-    .logo_header{
-        display: inline-block;
-        padding-left: 35px;
-    }
-    header span{
-        display: block !important;
-    }
-    header span:hover ul{
-        display: block;
-    }
-    header ul{
-        display: none;
-        width: 150px;
-        top: 78px;
-        position: absolute;
-        left: 50%;
-        transform: translate(-50%);
-        padding: 0;
-        margin: 0;
-    }
-    header ul li{
-        text-align: center;
-        border-left: 3px solid #3d241c;
-        border-right: 3px solid #3d241c;
-        border-top: 1.5px solid #3d241c;
-        border-bottom: 1.5px solid #3d241c;
-        padding: 15px 0 10px 0;
-        background-color: #C5A78A;
-    }
-    header ul li:first-child:hover{
-        color: #C5A78A;
-    }
-    header ul li a{
-        border-bottom: 3px solid transparent;
-    }
-    header ul li a:hover{
-        border-bottom: 3px solid transparent;
-        color: #C5A78A;
-    }
-    header ul li:hover{
-        text-align: center;
-        border-left: 3px solid #C5A78A;
-        border-right: 3px solid #C5A78A;
-        border-top: 1.5px solid #C5A78A;
-        border-bottom: 1.5px solid #C5A78A;
-        padding: 15px 0 10px 0;
-        background-color: #3d241c;
-    }
-    .contacts_header{
-        padding-right: 35px;
-    }
-}
 /*inf.adapt.header*/
 
 /*inf.adapt*/
