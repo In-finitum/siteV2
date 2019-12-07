@@ -193,54 +193,53 @@
         <div class="block">
             <div class="element">
                 <div class="block_photo">
-                    <div class="col_1"><a class="ph_left" href="images/portmone/black/2.jpg" title="Портмоне" style="background-image: url('images/portmone/black/2.jpg')"></a></div>
+                    <div class="col_1"><a class="ph_left" href="images/handbag/black/2.jpg" title="Портмоне" style="background-image: url('images/handbag/black/2.jpg')"></a></div>
                     <div class="col_2">
-                        <a class="ph_right" href="images/portmone/black/1.jpg" title="Портмоне" style="background-image: url('images/portmone/black/1.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/black/3.jpg" title="Портмоне" style="background-image: url('images/portmone/black/3.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/black/4.jpg" title="Портмоне" style="background-image: url('images/portmone/black/4.jpg')"></a>
+                        <a class="ph_right" href="images/handbag/black/1.jpg" title="Портмоне" style="background-image: url('images/handbag/black/1.jpg')"></a>
+                        <a class="ph_right" href="images/handbag/black/3.jpg" title="Портмоне" style="background-image: url('images/handbag/black/3.jpg')"></a>
+                        <a class="ph_right" href="images/handbag/black/4.jpg" title="Портмоне" style="background-image: url('images/handbag/black/4.jpg')"></a>
                     </div>
                 </div>
                 <div class="name_goods">
-                    ПОРТМОНЕ "PLEASE EDIT ME"
+                    БАНАНКА "ALL BEIGE"
                 </div>
                 <div class="description">
                     <div>
-                        - Матеріал : Натуральна шкіра.<br>
-                        - Шкіра : Crazy horse.<br>
-                        - Колір шкіри : Чорний<br>
-                        - Відділення для карт: 7.<br>
-                        - Відділеня для купюр: 2.<br>
+                        - Матеріал: Натуральна шкіра.<br>
+                        - Шкіра: Crazy horse.<br>
+                        - Колір шкіри: Чорний.<br>
+                        - Основне відділення: 1.<br>
+                        - Довжина застібки на сумці: 24 см.<br>
                     </div>
                     <div>
-                        - Відділеня для монет: 1.<br>
-                        - Розмір у закритому вигляді: 9*17.<br>
-                        - Ціна дроп: 500 грн.<br>
-                        - Ціна опт: 450 грн.<br>
-                        - Ціна роздрібна: 800-1000 грн.<br>
+                        - Додатковий карман усередині: 1 -16*8см.<br>
+                        - Ціна дроп: 900 грн.<br>
+                        - Ціна опт: 800 грн.<br>
+                        - Ціна роздрібна : 1200-1500 грн.<br>
                     </div>
                 </div>
                 <div class="footer_element">
-                    <div class="price">&#x20b4; 850</div>
+                    <div class="price">&#x20b4; 520</div>
                     <div class="show_popup">ЗАМОВИТИ</div>
                 </div>
             </div>
             <div class="element">
                 <div class="block_photo">
-                    <div class="col_1"><a class="ph_left" href="images/portmone/black/2.jpg" title="Портмоне" style="background-image: url('images/portmone/black/2.jpg')"></a></div>
+                    <div class="col_1"><a class="ph_left" href="images/handbag/broun/2.jpg" title="Портмоне" style="background-image: url('images/handbag/broun/2.jpg')"></a></div>
                     <div class="col_2">
-                        <a class="ph_right" href="images/portmone/black/1.jpg" title="Портмоне" style="background-image: url('images/portmone/black/1.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/black/3.jpg" title="Портмоне" style="background-image: url('images/portmone/black/3.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/black/4.jpg" title="Портмоне" style="background-image: url('images/portmone/black/4.jpg')"></a>
+                        <a class="ph_right" href="images/handbag/broun/1.jpg" title="Портмоне" style="background-image: url('images/handbag/broun/1.jpg')"></a>
+                        <a class="ph_right" href="images/handbag/broun/3.jpg" title="Портмоне" style="background-image: url('images/handbag/broun/3.jpg')"></a>
+                        <a class="ph_right" href="images/handbag/broun/4.jpg" title="Портмоне" style="background-image: url('images/handbag/broun/4.jpg')"></a>
                     </div>
                 </div>
                 <div class="name_goods">
-                    ПОРТМОНЕ "PLEASE EDIT ME"
+                    БАНАНКА "ALL BEIGE"
                 </div>
                 <div class="description">
                     <div>
                         - Матеріал : Натуральна шкіра.<br>
                         - Шкіра : Crazy horse.<br>
-                        - Колір шкіри : Чорний<br>
+                        - Колір шкіри : Коричневий<br>
                         - Відділення для карт: 7.<br>
                         - Відділеня для купюр: 2.<br>
                     </div>
@@ -253,27 +252,27 @@
                     </div>
                 </div>
                 <div class="footer_element">
-                    <div class="price">&#x20b4; 850</div>
+                    <div class="price">&#x20b4; 480</div>
                     <div class="show_popup">ЗАМОВИТИ</div>
                 </div>
             </div>
             <div class="element">
                 <div class="block_photo">
-                    <div class="col_1"><a class="ph_left" href="images/portmone/black/2.jpg" title="Портмоне" style="background-image: url('images/portmone/black/2.jpg')"></a></div>
+                    <div class="col_1"><a class="ph_left" href="images/handbag/red/2.jpg" title="Портмоне" style="background-image: url('images/handbag/red/2.jpg')"></a></div>
                     <div class="col_2">
-                        <a class="ph_right" href="images/portmone/black/1.jpg" title="Портмоне" style="background-image: url('images/portmone/black/1.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/black/3.jpg" title="Портмоне" style="background-image: url('images/portmone/black/3.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/black/4.jpg" title="Портмоне" style="background-image: url('images/portmone/black/4.jpg')"></a>
+                        <a class="ph_right" href="images/handbag/red/1.jpg" title="Портмоне" style="background-image: url('images/handbag/red/1.jpg')"></a>
+                        <a class="ph_right" href="images/handbag/red/3.jpg" title="Портмоне" style="background-image: url('images/handbag/red/3.jpg')"></a>
+                        <a class="ph_right" href="images/handbag/red/4.jpg" title="Портмоне" style="background-image: url('images/handbag/red/4.jpg')"></a>
                     </div>
                 </div>
                 <div class="name_goods">
-                    ПОРТМОНЕ "PLEASE EDIT ME"
+                    БАНАНКА "WINE RED ORNAMENT"
                 </div>
                 <div class="description">
                     <div>
                         - Матеріал : Натуральна шкіра.<br>
                         - Шкіра : Crazy horse.<br>
-                        - Колір шкіри : Чорний<br>
+                        - Колір шкіри : Червоний<br>
                         - Відділення для карт: 7.<br>
                         - Відділеня для купюр: 2.<br>
                     </div>
@@ -286,40 +285,7 @@
                     </div>
                 </div>
                 <div class="footer_element">
-                    <div class="price">&#x20b4; 850</div>
-                    <div class="show_popup">ЗАМОВИТИ</div>
-                </div>
-            </div>
-            <div class="element">
-                <div class="block_photo">
-                    <div class="col_1"><a class="ph_left" href="images/portmone/black/2.jpg" title="Портмоне" style="background-image: url('images/portmone/black/2.jpg')"></a></div>
-                    <div class="col_2">
-                        <a class="ph_right" href="images/portmone/black/1.jpg" title="Портмоне" style="background-image: url('images/portmone/black/1.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/black/3.jpg" title="Портмоне" style="background-image: url('images/portmone/black/3.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/black/4.jpg" title="Портмоне" style="background-image: url('images/portmone/black/4.jpg')"></a>
-                    </div>
-                </div>
-                <div class="name_goods">
-                    ПОРТМОНЕ "PLEASE EDIT ME"
-                </div>
-                <div class="description">
-                    <div>
-                        - Матеріал : Натуральна шкіра.<br>
-                        - Шкіра : Crazy horse.<br>
-                        - Колір шкіри : Чорний<br>
-                        - Відділення для карт: 7.<br>
-                        - Відділеня для купюр: 2.<br>
-                    </div>
-                    <div>
-                        - Відділеня для монет: 1.<br>
-                        - Розмір у закритому вигляді: 9*17.<br>
-                        - Ціна дроп: 500 грн.<br>
-                        - Ціна опт: 450 грн.<br>
-                        - Ціна роздрібна: 800-1000 грн.<br>
-                    </div>
-                </div>
-                <div class="footer_element">
-                    <div class="price">&#x20b4; 850</div>
+                    <div class="price">&#x20b4; 480</div>
                     <div class="show_popup">ЗАМОВИТИ</div>
                 </div>
             </div>
