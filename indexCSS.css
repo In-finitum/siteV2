@@ -197,6 +197,32 @@ header ul li a:hover{
     width: 200px;
     height: 200px;
 }
+/*footer*/
+footer{
+    background-color: rgba(44,46,45,0.96);
+    padding: 15px;
+}
+.text_contacts{
+    font-size: 20px;
+    color: rgba(255,255,255,0.96);
+    font-weight: bold;
+}
+.text_phone_email{
+    color: rgba(198,147,75,0.96);
+}
+.contacts{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 0;
+}
+.contacts>div>div{
+    padding: 10px 0;
+    font-size: 18px;
+}
+.data{
+    color: rgba(159,159,145,0.96);
+    font-weight: bold;
+}
 /*inf.asdsadsadsadgoods*/
 
 /*inf.adapt*/

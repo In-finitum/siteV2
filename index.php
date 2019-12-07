@@ -448,6 +448,24 @@
     <!--FOR TEST-->
 
 </main>
+<footer>
+    <div>
+        <p class="text_contacts">КОНТАКТИ</p>
+    </div>
+    <div class="contacts">
+        <div>
+            <div class="text_phone_email">ТЕЛЕФОН</div>
+            <div class="data">+380 (93) 922 87 38   Telegram. Viber</div>
+        </div>
+        <div>
+            <div class="text_phone_email">ПОШТА</div>
+            <div class="data">Paradaryna@gmail.com</div>
+        </div>
+        <div>
+<!--            for icons-->
+        </div>
+    </div>
+</footer>
 </body>
 </html>
 
