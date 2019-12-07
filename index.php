@@ -9,15 +9,9 @@
 
     <link rel="stylesheet" href="indexCSS.css">
     <link rel="stylesheet" href="formCSS.css">
-
-    <!-- Magnific Popup core CSS file -->
     <link rel="stylesheet" href="jquery/magnific-popup.css">
-
-    <!-- jQuery 1.7.2+ or Zepto.js 1.0+ -->
-    <script src="jquery/jquery-3.4.1.min.js"></script>
-
-    <!-- Magnific Popup core JS file -->
-    <script src="jquery/jquery.magnific-popup.js"></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+          integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
 </head>
 <body>
 <header>
@@ -33,6 +27,25 @@
         <div class="contacts_header">+38(093)9228738</div>
     </nav>
 </header>
+<!--testform-->
+<div id="fill_form">
+    <div class="center_form">
+        <form action="form.php" method="post" class="popup" id="popup1">
+            <div id="close_form"><i class="fas fa-times"></i></div>
+            <div class="h2">Оформити замовлення</div>
+            <label for="name">Ім'я, прізвище</label>
+            <input class="input" name="name" id="name" type="text" required>
+            <label for="phone">Телефон</label>
+            <input class="number" name="phone" id="phone" type="text" required>
+            <label for="city">Місто</label>
+            <input class="input" name="city" id="city" type="text">
+            <label for="email">Електронна пошта</label>
+            <input class="email" name="email" type="email" id="email">
+            <input class="send" type="submit" value="ПРИДБАТИ">
+        </form>
+    </div>
+</div>
+<!--testform-->
 <main>
     <div id="background">
         <!--        background photo-->
@@ -51,9 +64,9 @@
         <div class="block">
             <div class="element">
                 <div class="block_photo">
-                    <div class="col_1"><a class="ph_left" style="background-image: url('images/portmone/black/2.jpg')"></a></div>
+                    <div class="col_1"><a class="ph_left" style="background-image: url('images/portmone/black/1.jpg')"></a></div>
                     <div class="col_2">
-                        <a class="ph_right" style="background-image: url('images/portmone/black/1.jpg')"></a>
+                        <a class="ph_right" style="background-image: url('images/portmone/black/2.jpg')"></a>
                         <a class="ph_right" style="background-image: url('images/portmone/black/3.jpg')"></a>
                         <a class="ph_right" style="background-image: url('images/portmone/black/4.jpg')"></a>
                     </div>
@@ -66,7 +79,7 @@
                 </div>
                 <div class="footer_element">
                     <div class="price">&#x20b4; 999</div>
-                    <div class="show_popup">ЗАМОВИТИ</div>
+                    <div id="show_popup">ЗАМОВИТИ</div>
                 </div>
             </div>
             <div class="element">
@@ -82,28 +95,12 @@
     </div>
     <!--    blocks1-->
 
-    <!--testform-->
-    <form action="form.php" method="post" class="popup" id="popup1">
-        <input name="type" style="display: none" type="text" value="Набор TRY с портативной лампой (<s>985</s>грн) 689грн">
-        <label for="number">Номер телефона *</label><br>
-        <input class="input" id="number" name="number" type="text" value="+ (380) ">
-        <label for="name">Фамилия Имя Отчество *</label><br>
-        <input class="input" id="name" name="name" type="text"><br>
-        <label for="city">Город</label><br>
-        <input class="input" id="city" name="city" type="text"><br>
-        <label for="email">Электронная почта</label><br>
-        <input class="input" id="email" name="email" type="email"><br>
-        <input class="button" type="submit" value="КУПИТЬ">
-        <input class="close" type="button" value="close">
-    </form>
-    <!--testform-->
-    <button class="show_popup" rel="popup1">Купить товар</button>
-    <div class="overlay_popup"></div>
+
 </main>
 </body>
 </html>
 
-<script src="jquery/jquery-3.4.1.min.js"></script>
+
 <script src="script.js"></script>
 <script src ="JS/popup_photoJS.js"></script>
-
+<script src="jquery/jquery.magnific-popup.js"></script>

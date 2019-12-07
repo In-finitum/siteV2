@@ -135,8 +135,6 @@ header ul li a:hover{
     margin-top: 35px;
 }
 .description{
-    display: flex;
-    justify-content: space-between;
     margin-top: 5px;
     color: grey;
     text-align: justify;
