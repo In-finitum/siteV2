@@ -47,6 +47,12 @@ header ul{
 .contacts_header{
     font-size: 19px;
     font-weight: bold;
+    border-bottom: 3px solid transparent;
+}
+.contacts_header::after{
+    content: '';
+    display: block;
+    border-bottom: 3px solid transparent;
 }
 header ul li a{
     outline: none;
@@ -189,5 +195,27 @@ header ul li a:hover{
     height: 200px;
 }
 /*inf.asdsadsadsadgoods*/
+
+/*inf.adapt*/
+/*inf.adapt.header*/
+@media only screen and (min-width: 1000px) and (max-width: 1920px){
+    .logo_header{
+        display: block;
+        margin: 0 auto;
+        padding-left: 15px;
+    }
+    header ul li{
+        padding:  0 20px 0 20px;
+    }
+    .contacts_header{
+        display: block;
+        margin: 0 auto;
+        padding-right: 15px;
+    }
+}
+/*inf.adapt.header*/
+
+/*inf.adapt*/
+
 
 /*inf*/
