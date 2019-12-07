@@ -313,8 +313,8 @@
                 <div class="block_photo">
                     <div class="col_1"><a class="ph_left" href="images/notebook/black/2.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a></div>
                     <div class="col_2">
-                        <a class="ph_right" href="images/notebook/black/1.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
-                        <a class="ph_right" href="images/notebook/black/3.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
+                        <a class="ph_right ph_right_note" href="images/notebook/black/1.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
+                        <a class="ph_right ph_right_note" href="images/notebook/black/3.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
 
                     </div>
                 </div>
@@ -346,8 +346,8 @@
                 <div class="block_photo">
                     <div class="col_1"><a class="ph_left" href="images/notebook/broun/2.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a></div>
                     <div class="col_2">
-                        <a class="ph_right" href="images/notebook/broun/1.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
-                        <a class="ph_right" href="images/notebook/broun/3.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
+                        <a class="ph_right ph_right_note" href="images/notebook/broun/1.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
+                        <a class="ph_right ph_right_note" href="images/notebook/broun/3.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
 
                     </div>
                 </div>
@@ -379,8 +379,8 @@
                 <div class="block_photo">
                     <div class="col_1"><a class="ph_left" href="images/notebook/red/2.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a></div>
                     <div class="col_2">
-                        <a class="ph_right" href="images/notebook/red/1.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
-                        <a class="ph_right" href="images/notebook/red/3.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
+                        <a class="ph_right ph_right_note" href="images/notebook/red/1.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
+                        <a class="ph_right ph_right_note" href="images/notebook/red/3.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
 
                     </div>
                 </div>
@@ -412,8 +412,8 @@
                 <div class="block_photo">
                     <div class="col_1"><a class="ph_left" href="images/notebook/green/2.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a></div>
                     <div class="col_2">
-                        <a class="ph_right" href="images/notebook/green/1.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
-                        <a class="ph_right" href="images/notebook/green/3.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
+                        <a class="ph_right ph_right_note" href="images/notebook/green/1.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
+                        <a class="ph_right ph_right_note" href="images/notebook/green/3.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
 
                     </div>
                 </div>
