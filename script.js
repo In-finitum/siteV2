@@ -13,7 +13,12 @@ showForm.addEventListener('click', function () {
     form.appendChild(div);
     // inf
 });
+
 close_form.addEventListener('click', function () {
     fill_form.style.display = "none";
     document.body.style.overflow = 'auto';
+
+    // inf
+    div.
+    // inf
 });
