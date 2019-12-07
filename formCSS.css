@@ -1,63 +1,62 @@
 /*For pop-up, for buy*/
-.overlay_popup{
-    display:none;
-    position: fixed;
-    z-index: 999;
-    top: 0;
-    right: 0;
-    left: 0;
-    bottom: 0;
-    background: #000;
-    opacity: 0.5;
-}
-
-.popup{
+#fill_form{
     display: none;
+    position: fixed;
+    z-index: 99999;
+    background-color: rgba(0,0,0,0.6);
+    width: 100%;
+    height: 100vh;
+}
+.center_form{
     position:absolute;
-    width:300px;
-    z-index: 1000;
     top:50%;
     left:50%;
     transform: translate(-50%,-50%);
-    border: 2px solid gray;
-    border-radius:10px;
+}
+.popup{
+    position: relative;
+    width: 450px;
     background-color: white;
-    font-family: "Arial", Serif;
-    padding:15px;
-    box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+    padding: 40px 45px 40px 45px;
 }
 
-.popup div:first-child{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    font-size:16px;
-}
-.popup div:first-child p{
-    margin:0;
-}
-.popup div input{
+#close_form{
     display: inline-block;
-    border:1px solid gray;
-    border-radius: 5px;
-    outline: none;
-    font-size:16px;
-    padding:10px;
-    margin: 5px;
-    width:90%;
-}
-.popup div:last-child{
-    display:flex;
-    justify-content: center;
-}
-.popup div:last-child .send{
-    width:80%;
-    /*color:;*/
-    /*background: ;*/
-    box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
-}
-.popup .send:hover, .fa-times:hover{
-    opacity:.80;
+    position: absolute;
+    top: 10px;
+    right: 15px;
     cursor: pointer;
+    font-size: 24px;
 }
+.h2{
+    font-size: 32px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+.center_form label{
+    color: #252525;
+    margin-bottom: 10px;
+    font-size: 20px;
+    display: inline-block;
+}
+.center_form input{
+    width: 100%;
+    padding: 10px;
+    outline: none;
+    font-size: 18px;
+    margin-bottom: 30px;
+    border: 1px solid #515151;
+}
+.center_form [type="submit"]{
+    transition-duration: 300ms;
+    padding: 15px 0;
+    border: none;
+    background-color: #292929;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    margin-bottom: 0;
+    letter-spacing: 1px;
+}
+
 /*For pop-up, for buy*/

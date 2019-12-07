@@ -1,12 +1,8 @@
-$(document).ready(function () {
-    $('.show_popup').click(function () {
-        var popup_id = $('#' + $(this).attr("rel"));
-        $(popup_id).show();
-        $('.overlay_popup').show();
-        // document.body.style.overflow = 'hidden';
-    });
-    $('.fa-times').click(function () {
-        $('.overlay_popup, .popup').hide();
-        document.body.style.overflow = 'auto';
-    });
+show_popup.addEventListener('click', function () {
+    fill_form.style.display = "block";
+    document.body.style.overflow = 'hidden';
+});
+close_form.addEventListener('click', function () {
+    fill_form.style.display = "none";
+    document.body.style.overflow = 'auto';
 });
