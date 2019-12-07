@@ -199,13 +199,13 @@ header ul li a:hover{
 }
 /*footer*/
 footer{
-    background-color: rgba(44,46,45,0.96);
-    padding: 15px;
+    background-color: #292929;
+    padding: 15px 25px;
+    font-weight: bold;
 }
 .text_contacts{
     font-size: 20px;
     color: rgba(255,255,255,0.96);
-    font-weight: bold;
 }
 .text_phone_email{
     color: rgba(198,147,75,0.96);
@@ -221,7 +221,14 @@ footer{
 }
 .data{
     color: rgba(159,159,145,0.96);
-    font-weight: bold;
+}
+.footer_img{
+    width: 50px;
+    height: 75px;
+}
+.footer_img img:hover{
+    cursor:pointer;
+    transform: scale(1.1);
 }
 /*inf.asdsadsadsadgoods*/
 

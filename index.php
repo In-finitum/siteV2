@@ -414,7 +414,6 @@
                     <div class="col_2">
                         <a class="ph_right ph_right_note" href="images/notebook/green/1.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
                         <a class="ph_right ph_right_note" href="images/notebook/green/3.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
-
                     </div>
                 </div>
                 <div class="name_goods">
@@ -462,7 +461,8 @@
             <div class="data">Paradaryna@gmail.com</div>
         </div>
         <div>
-<!--            for icons-->
+            <a class="footer_img" href="" title="Facebook"><img src="images/facebook_icon.png" alt=""></a>
+            <a class="footer_img" href="" title="Instagram"><img src="images/instagram_icon.png" alt=""></a>
         </div>
     </div>
 </footer>
