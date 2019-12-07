@@ -87,11 +87,11 @@
             </div>
             <div class="element">
                 <div class="block_photo">
-                    <div class="col_1"><a class="ph_left" href="images/portmone/red/2.jpg" title="Портмоне" style="background-image: url('images/portmone/black/2.jpg')"></a></div>
+                    <div class="col_1"><a class="ph_left" href="images/portmone/red/2.jpg" title="Портмоне" style="background-image: url('images/portmone/red/2.jpg')"></a></div>
                     <div class="col_2">
-                        <a class="ph_right" href="images/portmone/red/1.jpg" title="Портмоне" style="background-image: url('images/portmone/black/1.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/red/3.jpg" title="Портмоне" style="background-image: url('images/portmone/black/3.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/red/4.jpg" title="Портмоне" style="background-image: url('images/portmone/black/4.jpg')"></a>
+                        <a class="ph_right" href="images/portmone/red/1.jpg" title="Портмоне" style="background-image: url('images/portmone/red/1.jpg')"></a>
+                        <a class="ph_right" href="images/portmone/red/3.jpg" title="Портмоне" style="background-image: url('images/portmone/red/3.jpg')"></a>
+                        <a class="ph_right" href="images/portmone/red/4.jpg" title="Портмоне" style="background-image: url('images/portmone/red/4.jpg')"></a>
                     </div>
                 </div>
                 <div class="name_goods">
@@ -120,11 +120,11 @@
             </div>
             <div class="element">
                 <div class="block_photo">
-                    <div class="col_1"><a class="ph_left" href="images/portmone/green/2.jpg" title="Портмоне" style="background-image: url('images/portmone/black/2.jpg')"></a></div>
+                    <div class="col_1"><a class="ph_left" href="images/portmone/green/2.jpg" title="Портмоне" style="background-image: url('images/portmone/green/2.jpg')"></a></div>
                     <div class="col_2">
-                        <a class="ph_right" href="images/portmone/green/1.jpg" title="Портмоне" style="background-image: url('images/portmone/black/1.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/green/3.jpg" title="Портмоне" style="background-image: url('images/portmone/black/3.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/green/4.jpg" title="Портмоне" style="background-image: url('images/portmone/black/4.jpg')"></a>
+                        <a class="ph_right" href="images/portmone/green/1.jpg" title="Портмоне" style="background-image: url('images/portmone/green/1.jpg')"></a>
+                        <a class="ph_right" href="images/portmone/green/3.jpg" title="Портмоне" style="background-image: url('images/portmone/green/3.jpg')"></a>
+                        <a class="ph_right" href="images/portmone/green/4.jpg" title="Портмоне" style="background-image: url('images/portmone/green/4.jpg')"></a>
                     </div>
                 </div>
                 <div class="name_goods">
@@ -153,11 +153,11 @@
             </div>
             <div class="element">
                 <div class="block_photo">
-                    <div class="col_1"><a class="ph_left" href="images/portmone/broun/2.jpg" title="Портмоне" style="background-image: url('images/portmone/black/2.jpg')"></a></div>
+                    <div class="col_1"><a class="ph_left" href="images/portmone/broun/2.jpg" title="Портмоне" style="background-image: url('images/portmone/broun/2.jpg')"></a></div>
                     <div class="col_2">
-                        <a class="ph_right" href="images/portmone/broun/1.jpg" title="Портмоне" style="background-image: url('images/portmone/black/1.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/broun/3.jpg" title="Портмоне" style="background-image: url('images/portmone/black/3.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/broun/4.jpg" title="Портмоне" style="background-image: url('images/portmone/black/4.jpg')"></a>
+                        <a class="ph_right" href="images/portmone/broun/1.jpg" title="Портмоне" style="background-image: url('images/portmone/broun/1.jpg')"></a>
+                        <a class="ph_right" href="images/portmone/broun/3.jpg" title="Портмоне" style="background-image: url('images/portmone/broun/3.jpg')"></a>
+                        <a class="ph_right" href="images/portmone/broun/4.jpg" title="Портмоне" style="background-image: url('images/portmone/broun/4.jpg')"></a>
                     </div>
                 </div>
                 <div class="name_goods">
