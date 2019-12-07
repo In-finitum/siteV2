@@ -20,13 +20,17 @@
 <header>
     <nav class="nav">
         <div class="logo_header"><a href="index.php">PELLETTERIA</a></div>
-        <ul>
-            <li><a href="#">ПОРТМОНЕ</a></li>
-            <li><a href="#">БЛОКНОТИ</a></li>
-            <li><a href="#">БАНАНКИ</a></li>
-            <li><a href="#">ВІДГУКИ</a></li>
-            <li><a href="#">ПРО НАС</a></li>
-        </ul>
+        <div>
+            <span style="display: none">МЕНЮ
+            <ul>
+                <li><a href="#">ПОРТМОНЕ</a></li>
+                <li><a href="#">БЛОКНОТИ</a></li>
+                <li><a href="#">БАНАНКИ</a></li>
+                <li><a href="#">ВІДГУКИ</a></li>
+                <li><a href="#">ПРО НАС</a></li>
+            </ul>
+            </span>
+        </div>
         <div class="contacts_header">+38(093)9228738</div>
     </nav>
 </header>
