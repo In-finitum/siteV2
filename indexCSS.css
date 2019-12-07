@@ -103,6 +103,10 @@ header ul li a:hover{
 .blocksField{
     width: 100%;
     background-color: white;
+    padding-bottom: 30px;
+}
+.blocksField:nth-child(2n) {
+    background-color: rgba(245,245,245,0.96);
 }
 .block{
     margin: 0 auto;
