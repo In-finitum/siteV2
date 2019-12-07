@@ -14,9 +14,50 @@
 .popup{
     display: none;
     position:absolute;
+    width:300px;
     z-index: 1000;
     top:50%;
     left:50%;
     transform: translate(-50%,-50%);
+    border: 2px solid gray;
+    border-radius:10px;
+    background-color: white;
+    font-family: "Arial", Serif;
+    padding:15px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+}
+
+.popup div:first-child{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size:16px;
+}
+.popup div:first-child p{
+    margin:0;
+}
+.popup div input{
+    display: inline-block;
+    border:1px solid gray;
+    border-radius: 5px;
+    outline: none;
+    font-size:16px;
+    padding:10px;
+    margin: 5px;
+    width:90%;
+}
+.popup div:last-child{
+    display:flex;
+    justify-content: center;
+}
+.popup div:last-child .send{
+    width:80%;
+    /*color:;*/
+    /*background: ;*/
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+}
+.popup .send:hover, .fa-times:hover{
+    opacity:.80;
+    cursor: pointer;
 }
 /*For pop-up, for buy*/

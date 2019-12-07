@@ -12,6 +12,9 @@
 
     <!-- Magnific Popup core CSS file -->
     <link rel="stylesheet" href="jquery/magnific-popup.css">
+    <!-- For icon links -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+          integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
 
     <!-- jQuery 1.7.2+ or Zepto.js 1.0+ -->
     <script src="jquery/jquery-3.4.1.min.js"></script>
@@ -84,17 +87,17 @@
 
     <!--testform-->
     <form action="form.php" method="post" class="popup" id="popup1">
-        <input name="type" style="display: none" type="text" value="Набор TRY с портативной лампой (<s>985</s>грн) 689грн">
-        <label for="number">Номер телефона *</label><br>
-        <input class="input" id="number" name="number" type="text" value="+ (380) ">
-        <label for="name">Фамилия Имя Отчество *</label><br>
-        <input class="input" id="name" name="name" type="text"><br>
-        <label for="city">Город</label><br>
-        <input class="input" id="city" name="city" type="text"><br>
-        <label for="email">Электронная почта</label><br>
-        <input class="input" id="email" name="email" type="email"><br>
-        <input class="button" type="submit" value="КУПИТЬ">
-        <input class="close" type="button" value="close">
+        <div><p>Оформити замовлення</p><i class="fas fa-times"></i></div>
+        <hr>
+        <div>
+            <input class="input" name="name" type="text" placeholder="Ім'я, прізвище">
+            <input class="number" name="number" type="text" placeholder="Телефон *">
+            <input class="input" name="city" type="text" placeholder="Місто">
+            <input class="email" name="email" type="email" placeholder="Електронна пошта">
+        </div>
+        <div>
+            <input class="send" type="submit" value="ПРИДБАТИ">
+        </div>
     </form>
     <!--testform-->
     <button class="show_popup" rel="popup1">Купить товар</button>
