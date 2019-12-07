@@ -15,12 +15,6 @@
     <!-- For icon links -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
           integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-
-    <!-- jQuery 1.7.2+ or Zepto.js 1.0+ -->
-    <script src="jquery/jquery-3.4.1.min.js"></script>
-
-    <!-- Magnific Popup core JS file -->
-    <script src="jquery/jquery.magnific-popup.js"></script>
 </head>
 <body>
 <header>
@@ -36,6 +30,25 @@
         <div class="contacts_header">+38(093)9228738</div>
     </nav>
 </header>
+<!--testform-->
+<div id="fill_form">
+    <div class="center_form">
+        <form action="form.php" method="post" class="popup" id="popup1">
+            <div id="close_form"><i class="fas fa-times"></i></div>
+            <div class="h2">Оформити замовлення</div>
+            <label for="name">Ім'я, прізвище</label>
+            <input class="input" name="name" id="name" type="text" required>
+            <label for="phone">Телефон</label>
+            <input class="number" name="phone" id="phone" type="text" required>
+            <label for="city">Місто</label>
+            <input class="input" name="city" id="city" type="text">
+            <label for="email">Електронна пошта</label>
+            <input class="email" name="email" type="email" id="email">
+            <input class="send" type="submit" value="ПРИДБАТИ">
+        </form>
+    </div>
+</div>
+<!--testform-->
 <main>
     <div id="background">
         <!--        background photo-->
@@ -48,17 +61,17 @@
         </div>
     </div>
 
-    <!--    blocks1-->
+    <!--    blocks1 begin-->
     <div class="blocksField">
         <div class="header_blocks">ПОРТМОНЕ</div>
         <div class="block">
             <div class="element">
                 <div class="block_photo">
-                    <div class="col_1"><a class="ph_left" href="images/portmone/black/2.jpg" title="Портмоне" style="background-image: url('images/portmone/black/2.jpg')"></a></div>
+                    <div class="col_1"><a class="ph_left" href="images/portmone/black/2.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a></div>
                     <div class="col_2">
-                        <a class="ph_right" href="images/portmone/black/1.jpg" title="Портмоне" style="background-image: url('images/portmone/black/1.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/black/3.jpg" title="Портмоне" style="background-image: url('images/portmone/black/3.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/black/4.jpg" title="Портмоне" style="background-image: url('images/portmone/black/4.jpg')"></a>
+                        <a class="ph_right" href="images/portmone/black/1.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
+                        <a class="ph_right" href="images/portmone/black/3.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
+                        <a class="ph_right" href="images/portmone/black/4.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
                     </div>
                 </div>
                 <div class="name_goods">
@@ -66,32 +79,32 @@
                 </div>
                 <div class="description">
                     <div>
-                        - Матеріал : Натуральна шкіра.<br>
-                        - Шкіра : Crazy horse.<br>
-                        - Колір шкіри : Чорний<br>
-                        - Відділення для карт: 7.<br>
-                        - Відділеня для купюр: 2.<br>
+                        -Матеріал : Натуральна шкіра.<br>
+                        -Шкіра : Crazy horse.<br>
+                        -Колір шкіри : Чорний<br>
+                        -Відділення для карт: 7.<br>
+                        -Відділеня для купюр: 2.<br>
                     </div>
                     <div>
-                        - Відділеня для монет: 1.<br>
-                        - Розмір у закритому вигляді: 9*17.<br>
-                        - Ціна дроп: 500 грн.<br>
-                        - Ціна опт: 450 грн.<br>
-                        - Ціна роздрібна: 800-1000 грн.<br>
+                        -Відділеня для монет: 1.<br>
+                        -Розмір у закритому вигляді: 9*17.<br>
+                        -Ціна дроп: 500 грн.<br>
+                        -Ціна опт: 450 грн.<br>
+                        -Ціна роздрібна: 800-1000 грн.<br>
                     </div>
                 </div>
                 <div class="footer_element">
                     <div class="price">&#x20b4; 850</div>
-                    <div class="show_popup">ЗАМОВИТИ</div>
+                    <div id="show_popup">ЗАМОВИТИ</div>
                 </div>
             </div>
             <div class="element">
                 <div class="block_photo">
-                    <div class="col_1"><a class="ph_left" href="images/portmone/red/2.jpg" title="Портмоне" style="background-image: url('images/portmone/red/2.jpg')"></a></div>
+                    <div class="col_1"><a class="ph_left" href="images/portmone/red/2.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a></div>
                     <div class="col_2">
-                        <a class="ph_right" href="images/portmone/red/1.jpg" title="Портмоне" style="background-image: url('images/portmone/red/1.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/red/3.jpg" title="Портмоне" style="background-image: url('images/portmone/red/3.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/red/4.jpg" title="Портмоне" style="background-image: url('images/portmone/red/4.jpg')"></a>
+                        <a class="ph_right" href="images/portmone/red/1.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
+                        <a class="ph_right" href="images/portmone/red/3.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
+                        <a class="ph_right" href="images/portmone/red/4.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
                     </div>
                 </div>
                 <div class="name_goods">
@@ -99,32 +112,32 @@
                 </div>
                 <div class="description">
                     <div>
-                        - Матеріал : Натуральна шкіра.<br>
-                        - Шкіра : Crazy horse.<br>
-                        - Колір шкіри : Червоний<br>
-                        - Відділення для карт: 7.<br>
-                        - Відділеня для купюр: 2.<br>
+                        -Матеріал : Натуральна шкіра.<br>
+                        -Шкіра : Crazy horse.<br>
+                        -Колір шкіри : Червоний<br>
+                        -Відділення для карт: 7.<br>
+                        -Відділеня для купюр: 2.<br>
                     </div>
                     <div>
-                        - Відділеня для монет: 1.<br>
-                        - Розмір у закритому вигляді: 9*17.<br>
-                        - Ціна дроп: 500 грн.<br>
-                        - Ціна опт: 450 грн.<br>
-                        - Ціна роздрібна: 800-1000 грн.<br>
+                        -Відділеня для монет: 1.<br>
+                        -Розмір у закритому вигляді: 9*17.<br>
+                        -Ціна дроп: 500 грн.<br>
+                        -Ціна опт: 450 грн.<br>
+                        -Ціна роздрібна: 800-1000 грн.<br>
                     </div>
                 </div>
                 <div class="footer_element">
                     <div class="price">&#x20b4; 850</div>
-                    <div class="show_popup">ЗАМОВИТИ</div>
+                    <div id="show_popup">ЗАМОВИТИ</div>
                 </div>
             </div>
             <div class="element">
                 <div class="block_photo">
-                    <div class="col_1"><a class="ph_left" href="images/portmone/green/2.jpg" title="Портмоне" style="background-image: url('images/portmone/green/2.jpg')"></a></div>
+                    <div class="col_1"><a class="ph_left" href="images/portmone/green/2.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a></div>
                     <div class="col_2">
-                        <a class="ph_right" href="images/portmone/green/1.jpg" title="Портмоне" style="background-image: url('images/portmone/green/1.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/green/3.jpg" title="Портмоне" style="background-image: url('images/portmone/green/3.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/green/4.jpg" title="Портмоне" style="background-image: url('images/portmone/green/4.jpg')"></a>
+                        <a class="ph_right" href="images/portmone/green/1.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
+                        <a class="ph_right" href="images/portmone/green/3.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
+                        <a class="ph_right" href="images/portmone/green/4.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
                     </div>
                 </div>
                 <div class="name_goods">
@@ -132,32 +145,32 @@
                 </div>
                 <div class="description">
                     <div>
-                        - Матеріал : Натуральна шкіра.<br>
-                        - Шкіра : Crazy horse.<br>
-                        - Колір шкіри : Зелений<br>
-                        - Відділення для карт: 7.<br>
-                        - Відділеня для купюр: 2.<br>
+                        -Матеріал : Натуральна шкіра.<br>
+                        -Шкіра : Crazy horse.<br>
+                        -Колір шкіри : Зелений<br>
+                        -Відділення для карт: 7.<br>
+                        -Відділеня для купюр: 2.<br>
                     </div>
                     <div>
-                        - Відділеня для монет: 1.<br>
-                        - Розмір у закритому вигляді: 9*17.<br>
-                        - Ціна дроп: 500 грн.<br>
-                        - Ціна опт: 450 грн.<br>
-                        - Ціна роздрібна: 800-1000 грн.<br>
+                        -Відділеня для монет: 1.<br>
+                        -Розмір у закритому вигляді: 9*17.<br>
+                        -Ціна дроп: 500 грн.<br>
+                        -Ціна опт: 450 грн.<br>
+                        -Ціна роздрібна: 800-1000 грн.<br>
                     </div>
                 </div>
                 <div class="footer_element">
                     <div class="price">&#x20b4; 850</div>
-                    <div class="show_popup">ЗАМОВИТИ</div>
+                    <div id="show_popup">ЗАМОВИТИ</div>
                 </div>
             </div>
             <div class="element">
                 <div class="block_photo">
-                    <div class="col_1"><a class="ph_left" href="images/portmone/broun/2.jpg" title="Портмоне" style="background-image: url('images/portmone/broun/2.jpg')"></a></div>
+                    <div class="col_1"><a class="ph_left" href="images/portmone/broun/2.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a></div>
                     <div class="col_2">
-                        <a class="ph_right" href="images/portmone/broun/1.jpg" title="Портмоне" style="background-image: url('images/portmone/broun/1.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/broun/3.jpg" title="Портмоне" style="background-image: url('images/portmone/broun/3.jpg')"></a>
-                        <a class="ph_right" href="images/portmone/broun/4.jpg" title="Портмоне" style="background-image: url('images/portmone/broun/4.jpg')"></a>
+                        <a class="ph_right" href="images/portmone/broun/1.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
+                        <a class="ph_right" href="images/portmone/broun/3.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
+                        <a class="ph_right" href="images/portmone/broun/4.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
                     </div>
                 </div>
                 <div class="name_goods">
@@ -165,39 +178,39 @@
                 </div>
                 <div class="description">
                     <div>
-                        - Матеріал : Натуральна шкіра.<br>
-                        - Шкіра : Crazy horse.<br>
-                        - Колір шкіри : Коричневий<br>
-                        - Відділення для карт: 7.<br>
-                        - Відділеня для купюр: 2.<br>
+                        -Матеріал : Натуральна шкіра.<br>
+                        -Шкіра : Crazy horse.<br>
+                        -Колір шкіри : Коричневий<br>
+                        -Відділення для карт: 7.<br>
+                        -Відділеня для купюр: 2.<br>
                     </div>
                     <div>
-                        - Відділеня для монет: 1.<br>
-                        - Розмір у закритому вигляді: 9*17.<br>
-                        - Ціна дроп: 500 грн.<br>
-                        - Ціна опт: 450 грн.<br>
-                        - Ціна роздрібна: 800-1000 грн.<br>
+                        -Відділеня для монет: 1.<br>
+                        -Розмір у закритому вигляді: 9*17.<br>
+                        -Ціна дроп: 500 грн.<br>
+                        -Ціна опт: 450 грн.<br>
+                        -Ціна роздрібна: 800-1000 грн.<br>
                     </div>
                 </div>
                 <div class="footer_element">
                     <div class="price">&#x20b4; 850</div>
-                    <div class="show_popup">ЗАМОВИТИ</div>
+                    <div id="show_popup">ЗАМОВИТИ</div>
                 </div>
             </div>
         </div>
     </div>
-    <!--    blocks1-->
-    <!--    blocks2-->
+    <!--    blocks1 end-->
+    <!--    blocks2 begin-->
     <div class="blocksField">
         <div class="header_blocks">БАНАНКИ</div>
         <div class="block">
             <div class="element">
                 <div class="block_photo">
-                    <div class="col_1"><a class="ph_left" href="images/handbag/black/2.jpg" title="Портмоне" style="background-image: url('images/handbag/black/2.jpg')"></a></div>
+                    <div class="col_1"><a class="ph_left" href="images/handbag/black/2.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a></div>
                     <div class="col_2">
-                        <a class="ph_right" href="images/handbag/black/1.jpg" title="Портмоне" style="background-image: url('images/handbag/black/1.jpg')"></a>
-                        <a class="ph_right" href="images/handbag/black/3.jpg" title="Портмоне" style="background-image: url('images/handbag/black/3.jpg')"></a>
-                        <a class="ph_right" href="images/handbag/black/4.jpg" title="Портмоне" style="background-image: url('images/handbag/black/4.jpg')"></a>
+                        <a class="ph_right" href="images/handbag/black/1.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
+                        <a class="ph_right" href="images/handbag/black/3.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
+                        <a class="ph_right" href="images/handbag/black/4.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
                     </div>
                 </div>
                 <div class="name_goods">
@@ -205,31 +218,31 @@
                 </div>
                 <div class="description">
                     <div>
-                        - Матеріал: Натуральна шкіра.<br>
-                        - Шкіра: Crazy horse.<br>
-                        - Колір шкіри: Чорний.<br>
-                        - Основне відділення: 1.<br>
-                        - Довжина застібки на сумці: 24 см.<br>
+                        -Матеріал: Натуральна шкіра.<br>
+                        -Шкіра: Crazy horse.<br>
+                        -Колір шкіри: Чорний.<br>
+                        -Основне відділення: 1.<br>
+                        -Довжина застібки на сумці: 24 см.<br>
                     </div>
                     <div>
-                        - Додатковий карман усередині: 1 -16*8см.<br>
-                        - Ціна дроп: 900 грн.<br>
-                        - Ціна опт: 800 грн.<br>
-                        - Ціна роздрібна : 1200-1500 грн.<br>
+                        -Додатковий карман усередині: 1 -16*8см.<br>
+                        -Ціна дроп: 900 грн.<br>
+                        -Ціна опт: 800 грн.<br>
+                        -Ціна роздрібна : 1200-1500 грн.<br>
                     </div>
                 </div>
                 <div class="footer_element">
                     <div class="price">&#x20b4; 520</div>
-                    <div class="show_popup">ЗАМОВИТИ</div>
+                    <div id="show_popup">ЗАМОВИТИ</div>
                 </div>
             </div>
             <div class="element">
                 <div class="block_photo">
-                    <div class="col_1"><a class="ph_left" href="images/handbag/broun/2.jpg" title="Портмоне" style="background-image: url('images/handbag/broun/2.jpg')"></a></div>
+                    <div class="col_1"><a class="ph_left" href="images/handbag/broun/2.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a></div>
                     <div class="col_2">
-                        <a class="ph_right" href="images/handbag/broun/1.jpg" title="Портмоне" style="background-image: url('images/handbag/broun/1.jpg')"></a>
-                        <a class="ph_right" href="images/handbag/broun/3.jpg" title="Портмоне" style="background-image: url('images/handbag/broun/3.jpg')"></a>
-                        <a class="ph_right" href="images/handbag/broun/4.jpg" title="Портмоне" style="background-image: url('images/handbag/broun/4.jpg')"></a>
+                        <a class="ph_right" href="images/handbag/broun/1.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
+                        <a class="ph_right" href="images/handbag/broun/3.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
+                        <a class="ph_right" href="images/handbag/broun/4.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
                     </div>
                 </div>
                 <div class="name_goods">
@@ -237,32 +250,32 @@
                 </div>
                 <div class="description">
                     <div>
-                        - Матеріал : Натуральна шкіра.<br>
-                        - Шкіра : Crazy horse.<br>
-                        - Колір шкіри : Коричневий<br>
-                        - Відділення для карт: 7.<br>
-                        - Відділеня для купюр: 2.<br>
+                        -Матеріал : Натуральна шкіра.<br>
+                        -Шкіра : Crazy horse.<br>
+                        -Колір шкіри : Коричневий<br>
+                        -Відділення для карт: 7.<br>
+                        -Відділеня для купюр: 2.<br>
                     </div>
                     <div>
-                        - Відділеня для монет: 1.<br>
-                        - Розмір у закритому вигляді: 9*17.<br>
-                        - Ціна дроп: 500 грн.<br>
-                        - Ціна опт: 450 грн.<br>
-                        - Ціна роздрібна: 800-1000 грн.<br>
+                        -Відділеня для монет: 1.<br>
+                        -Розмір у закритому вигляді: 9*17.<br>
+                        -Ціна дроп: 500 грн.<br>
+                        -Ціна опт: 450 грн.<br>
+                        -Ціна роздрібна: 800-1000 грн.<br>
                     </div>
                 </div>
                 <div class="footer_element">
                     <div class="price">&#x20b4; 480</div>
-                    <div class="show_popup">ЗАМОВИТИ</div>
+                    <div id="show_popup">ЗАМОВИТИ</div>
                 </div>
             </div>
             <div class="element">
                 <div class="block_photo">
-                    <div class="col_1"><a class="ph_left" href="images/handbag/red/2.jpg" title="Портмоне" style="background-image: url('images/handbag/red/2.jpg')"></a></div>
+                    <div class="col_1"><a class="ph_left" href="images/handbag/red/2.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a></div>
                     <div class="col_2">
-                        <a class="ph_right" href="images/handbag/red/1.jpg" title="Портмоне" style="background-image: url('images/handbag/red/1.jpg')"></a>
-                        <a class="ph_right" href="images/handbag/red/3.jpg" title="Портмоне" style="background-image: url('images/handbag/red/3.jpg')"></a>
-                        <a class="ph_right" href="images/handbag/red/4.jpg" title="Портмоне" style="background-image: url('images/handbag/red/4.jpg')"></a>
+                        <a class="ph_right" href="images/handbag/red/1.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
+                        <a class="ph_right" href="images/handbag/red/3.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
+                        <a class="ph_right" href="images/handbag/red/4.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
                     </div>
                 </div>
                 <div class="name_goods">
@@ -270,53 +283,39 @@
                 </div>
                 <div class="description">
                     <div>
-                        - Матеріал : Натуральна шкіра.<br>
-                        - Шкіра : Crazy horse.<br>
-                        - Колір шкіри : Червоний<br>
-                        - Відділення для карт: 7.<br>
-                        - Відділеня для купюр: 2.<br>
+                        -Матеріал : Натуральна шкіра.<br>
+                        -Шкіра : Crazy horse.<br>
+                        -Колір шкіри : Червоний<br>
+                        -Відділення для карт: 7.<br>
+                        -Відділеня для купюр: 2.<br>
                     </div>
                     <div>
-                        - Відділеня для монет: 1.<br>
-                        - Розмір у закритому вигляді: 9*17.<br>
-                        - Ціна дроп: 500 грн.<br>
-                        - Ціна опт: 450 грн.<br>
-                        - Ціна роздрібна: 800-1000 грн.<br>
+                        -Відділеня для монет: 1.<br>
+                        -Розмір у закритому вигляді: 9*17.<br>
+                        -Ціна дроп: 500 грн.<br>
+                        -Ціна опт: 450 грн.<br>
+                        -Ціна роздрібна: 800-1000 грн.<br>
                     </div>
                 </div>
                 <div class="footer_element">
                     <div class="price">&#x20b4; 480</div>
-                    <div class="show_popup">ЗАМОВИТИ</div>
+                    <div id="show_popup">ЗАМОВИТИ</div>
                 </div>
             </div>
         </div>
     </div>
-    <!--    blocks2-->
-    <!--testform-->
-    <form action="form.php" method="post" class="popup" id="popup1">
-        <div><p>Оформити замовлення</p><i class="fas fa-times"></i></div>
-        <hr>
-        <div>
-            <input class="input" name="name" type="text" placeholder="Ім'я, прізвище">
-            <input class="number" name="number" type="text" placeholder="Телефон *">
-            <input class="input" name="city" type="text" placeholder="Місто">
-            <input class="email" name="email" type="email" placeholder="Електронна пошта">
-        </div>
-        <div>
-            <input class="send" type="submit" value="ПРИДБАТИ">
-        </div>
-    </form>
-    <!--testform-->
+    <!--    blocks2 end-->
+    <!--    blocks3 begin-->
+
+    <!--    blocks3 end-->
+
     <!--FOR TEST-->
 
-
-    <button class="show_popup" rel="popup1">Купить товар</button>
-    <div class="overlay_popup"></div>
 </main>
 </body>
 </html>
 
-<!--<script src="jquery/jquery-3.4.1.min.js"></script>-->
+<script src="jquery/jquery.magnific-popup.js"></script>
 <script src="script.js"></script>
 <script src ="JS/popup_photoJS.js"></script>
 
