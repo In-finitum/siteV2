@@ -87,7 +87,7 @@ header ul li a:hover{
 }
 #logo>div>div:first-child{
     font-size: 120px;
-    padding: 60px 0px 60px 0px;
+    padding: 60px 0 60px 0;
 }
 #logo>div>div:nth-child(2){
     font-size: 25px;
@@ -112,11 +112,9 @@ header ul li a:hover{
 }
 .element{
     width: 520px;
-
-    border: 1px solid black;
     margin-bottom: 20px;
     padding: 15px;
-    /*box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.76);*/
+    box-shadow: 0 5px 12px 1px grey;
 }
 .header_blocks{
     font-size: 45px;
@@ -128,6 +126,7 @@ header ul li a:hover{
 .block_photo{
     height: 320px;
     width: 100%;
+    display: flex;
 }
 .name_goods{
     font-weight: bold;
@@ -140,15 +139,42 @@ header ul li a:hover{
     text-align: justify;
     line-height: 23px;
 }
-.ph1{
-    background: url("images/portmone/black/2.jpg");
-    width: 260px;
-    height: 100%;
+.ph_left, .ph_right{
     display: inline-block;
     background-size: cover;
+    background-position: left center;
+}
+.ph_left{
+    width: 255px;
+    height: 100%;
 }
 .col_1{
     height: 100%;
+    margin-right: 15px;
+}
+.ph_right{
+    width: 220px;
+    height: 100px;
+}
+.col_2 a{
+    margin-bottom: 6px;
+}
+.price{
+    font-weight: bold;
+    font-size: 30px;
+
+}
+.footer_element{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.show_popup{
+    font-weight: bold;
+    padding: 15px;
+    background-color: #3d241c;
+    color: #C5A78A;
 }
 /*inf.goods*/
 

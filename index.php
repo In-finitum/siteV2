@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge, chrome=1">
     <title>Document</title>
 
     <link rel="stylesheet" href="indexCSS.css">
@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="jquery/magnific-popup.css">
 
     <!-- jQuery 1.7.2+ or Zepto.js 1.0+ -->
-    <script src="jquery/jquery.magnific-popup.min.js"></script>
+    <script src="jquery/jquery-3.4.1.min.js"></script>
 
     <!-- Magnific Popup core JS file -->
     <script src="jquery/jquery.magnific-popup.js"></script>
@@ -51,14 +51,22 @@
         <div class="block">
             <div class="element">
                 <div class="block_photo">
-                    <div class="col_1"><a class="ph1" href="images/portmone/black/1.jpg"></a></div>
-                    <div class="col_2"></div>
+                    <div class="col_1"><a class="ph_left" style="background-image: url('images/portmone/black/2.jpg')"></a></div>
+                    <div class="col_2">
+                        <a class="ph_right" style="background-image: url('images/portmone/black/1.jpg')"></a>
+                        <a class="ph_right" style="background-image: url('images/portmone/black/3.jpg')"></a>
+                        <a class="ph_right" style="background-image: url('images/portmone/black/4.jpg')"></a>
+                    </div>
                 </div>
                 <div class="name_goods">
                     РЮКЗАК "GEOMETRIC BLACK ETNO"
                 </div>
                 <div class="description">
                     Розмір 32х24х8 Рюкзак з одним великим відділенням та кишенькою для дрібниць. На спинці є кишеня під замок.  Матеріал екошкіра, всередині войлок. Шлейки регулюються
+                </div>
+                <div class="footer_element">
+                    <div class="price">&#x20b4; 999</div>
+                    <div class="show_popup">ЗАМОВИТИ</div>
                 </div>
             </div>
             <div class="element">
@@ -97,4 +105,5 @@
 
 <script src="jquery/jquery-3.4.1.min.js"></script>
 <script src="script.js"></script>
+<script src ="JS/popup_photoJS.js"></script>
 
