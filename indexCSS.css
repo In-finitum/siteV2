@@ -151,6 +151,9 @@ header ul li a:hover{
     width: 100%;
     display: flex;
 }
+.block_photo a{
+    background-repeat: no-repeat;
+}
 .name_goods{
     font-weight: bold;
     font-size: 18px;

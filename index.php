@@ -275,8 +275,8 @@
                     <div class="col_1"><a class="ph_left" href="images/handbag/red/1.png" title="Портмоне" style="background-image: url('images/handbag/red/1.png')"></a></div>
                     <div class="col_2">
                         <a class="ph_right" href="images/handbag/red/2.png" title="Портмоне" style="background-image: url('images/handbag/red/2.png')"></a>
-                        <a class="ph_right" href="images/handbag/red/3.png" title="Портмоне" style="background-image: url('images/handbag/red/3.png')"></a>
-                        <a class="ph_right" href="images/handbag/red/4.png" title="Портмоне" style="background-image: url('images/handbag/red/4.png')"></a>
+                        <a class="ph_right" href="images/handbag/red/3.png" title="Портмоне" style="background-image: url('images/handbag/red/3.png'); background-position: 0 -160px;"></a>
+                        <a class="ph_right" href="images/handbag/red/4.png" title="Портмоне" style="background-image: url('images/handbag/red/4.png'); background-position: 0 -140px"></a>
                     </div>
                 </div>
                 <div class="name_goods">
@@ -314,8 +314,8 @@
                 <div class="block_photo">
                     <div class="col_1"><a class="ph_left" href="images/notebook/black/1.png" title="Портмоне" style="background-image: url('images/notebook/black/1.png')"></a></div>
                     <div class="col_2">
-                        <a class="ph_right ph_right_note" href="images/notebook/black/2.png" title="Портмоне" style="background-image: url('images/notebook/black/2.png')"></a>
-                        <a class="ph_right ph_right_note" href="images/notebook/black/3.png" title="Портмоне" style="background-image: url('images/notebook/black/3.png')"></a>
+                        <a class="ph_right ph_right_note" href="images/notebook/black/2.png" title="Портмоне" style="background-image: url('images/notebook/black/2.png'); background-position: 0 -130px"></a>
+                        <a class="ph_right ph_right_note" href="images/notebook/black/3.png" title="Портмоне" style="background-image: url('images/notebook/black/3.png'); background-position: 0 -100px"></a>
 
                     </div>
                 </div>
@@ -348,7 +348,7 @@
                     <div class="col_1"><a class="ph_left" href="images/notebook/broun/1.png" title="Портмоне" style="background-image: url('images/notebook/broun/1.png')"></a></div>
                     <div class="col_2">
                         <a class="ph_right ph_right_note" href="images/notebook/broun/2.png" title="Портмоне" style="background-image: url('images/notebook/broun/2.png')"></a>
-                        <a class="ph_right ph_right_note" href="images/notebook/broun/3.png" title="Портмоне" style="background-image: url('images/notebook/broun/3.png')"></a>
+                        <a class="ph_right ph_right_note" href="images/notebook/broun/3.png" title="Портмоне" style="background-image: url('images/notebook/broun/3.png'); background-position: 0 -100px"></a>
 
                     </div>
                 </div>
@@ -412,7 +412,7 @@
                 <div class="block_photo">
                     <div class="col_1"><a class="ph_left" href="images/notebook/green/1.png" title="Портмоне" style="background-image: url('images/notebook/green/1.png')"></a></div>
                     <div class="col_2">
-                        <a class="ph_right ph_right_note" href="images/notebook/green/2.png" title="Портмоне" style="background-image: url('images/notebook/green/2.png')"></a>
+                        <a class="ph_right ph_right_note" href="images/notebook/green/2.png" title="Портмоне" style="background-image: url('images/notebook/green/2.png'); background-position: 0 -100px"></a>
                         <a class="ph_right ph_right_note" href="images/notebook/green/3.png" title="Портмоне" style="background-image: url('images/notebook/green/3.png')"></a>
                     </div>
                 </div>
