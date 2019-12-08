@@ -244,25 +244,39 @@ footer{
     cursor:pointer;
     transform: scale(1.1);
 }
+.dropdown{
+    display: none;
+}
 /*inf.asdsadsadsadgoods*/
 
 /*inf.adapt*/
 /*inf.adapt.header*/
-@media only screen and (min-width: 1000px) and (max-width: 1920px){
-    .logo_header{
-        display: block;
-        margin: 0 auto;
-        padding-left: 15px;
-    }
-    header ul li{
-        padding:  0 20px 0 20px;
-    }
+
+@media only screen and (max-width: 1045px){
     .contacts_header{
+        display: none !important;
+    }
+    .nav{
+        justify-content: space-around !important;
+    }
+    .nav ul{
+        display: none !important;
+    }
+    .dropdown{
         display: block;
-        margin: 0 auto;
-        padding-right: 15px;
     }
 }
+@media only screen and (max-width: 1400px){
+    .nav{
+        justify-content: space-around !important;
+    }
+}
+@media only screen and (max-width: 1075px){
+    .block{
+        justify-content: center !important;
+    }
+}
+
 .feedback_block{
     background-color: rgba(245,245,245,0.96);
     padding-bottom: 50px;
