@@ -200,7 +200,7 @@ header ul li a:hover{
     justify-content: space-between;
     align-items: center;
 }
-#show_popup{
+.show_popup{
     font-weight: bold;
     padding: 15px;
     background-color: #292929;

@@ -267,7 +267,7 @@
                 </div>
                 <div class="footer_element">
                     <div class="price">&#x20b4; 480</div>
-                    <div id="show_popup">ЗАМОВИТИ</div>
+                    <div class="show_popup">ЗАМОВИТИ</div>
                 </div>
             </div>
             <div class="element">
@@ -300,7 +300,7 @@
                 </div>
                 <div class="footer_element">
                     <div class="price">&#x20b4; 480</div>
-                    <div id="show_popup">ЗАМОВИТИ</div>
+                    <div class="show_popup">ЗАМОВИТИ</div>
                 </div>
             </div>
         </div>
@@ -340,7 +340,7 @@
                 </div>
                 <div class="footer_element">
                     <div class="price">&#x20b4; 640</div>
-                    <div id="show_popup">ЗАМОВИТИ</div>
+                    <div class="show_popup">ЗАМОВИТИ</div>
                 </div>
             </div>
             <div class="element">
@@ -373,7 +373,7 @@
                 </div>
                 <div class="footer_element">
                     <div class="price">&#x20b4; 720</div>
-                    <div id="show_popup">ЗАМОВИТИ</div>
+                    <div class="show_popup">ЗАМОВИТИ</div>
                 </div>
             </div>
             <div class="element">
@@ -405,7 +405,7 @@
                 </div>
                 <div class="footer_element">
                     <div class="price">&#x20b4; 620</div>
-                    <div id="show_popup">ЗАМОВИТИ</div>
+                    <div class="show_popup">ЗАМОВИТИ</div>
                 </div>
             </div>
             <div class="element">
@@ -437,7 +437,7 @@
                 </div>
                 <div class="footer_element">
                     <div class="price">&#x20b4; 720</div>
-                    <div id="show_popup">ЗАМОВИТИ</div>
+                    <div class="show_popup">ЗАМОВИТИ</div>
                 </div>
             </div>
         </div>
