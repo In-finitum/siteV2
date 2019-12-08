@@ -68,11 +68,11 @@
         <div class="block">
             <div class="element">
                 <div class="block_photo">
-                    <div class="col_1"><a class="ph_left" href="images/portmone/black/2.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a></div>
+                    <div class="col_1"><a class="ph_left" href="images/handbag/black/1.png" title="Портмоне" style="background-image: url('images/handbag/black/1.png')"></a></div>
                     <div class="col_2">
-                        <a class="ph_right" href="images/portmone/black/1.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
-                        <a class="ph_right" href="images/portmone/black/3.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
-                        <a class="ph_right" href="images/portmone/black/4.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
+                        <a class="ph_right" href="images/handbag/black/2.png" title="Портмоне" style="background-image: url('images/handbag/black/2.png')"></a>
+                        <a class="ph_right" href="images/handbag/black/3.png" title="Портмоне" style="background-image: url('images/handbag/black/3.png')"></a>
+                        <a class="ph_right" href="images/handbag/black/4.png" title="Портмоне" style="background-image: url('images/handbag/black/4.png')"></a>
                     </div>
                 </div>
                 <div class="name_goods">
@@ -207,11 +207,11 @@
         <div class="block">
             <div class="element">
                 <div class="block_photo">
-                    <div class="col_1"><a class="ph_left" href="images/handbag/black/2.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a></div>
+                    <div class="col_1"><a class="ph_left" href="images/handbag/black/2.png" title="Портмоне" style="background-image: url('images/handbag/black/1.png')"></a></div>
                     <div class="col_2">
-                        <a class="ph_right" href="images/handbag/black/1.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
-                        <a class="ph_right" href="images/handbag/black/3.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
-                        <a class="ph_right" href="images/handbag/black/4.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
+                        <a class="ph_right" href="images/handbag/black/2.png" title="Портмоне" style="background-image: url('images/handbag/black/2.png')"></a>
+                        <a class="ph_right" href="images/handbag/black/2.png" title="Портмоне" style="background-image: url('images/handbag/black/3.png')"></a>
+                        <a class="ph_right" href="images/handbag/black/2.png" title="Портмоне" style="background-image: url('images/handbag/black/4.png')"></a>
                     </div>
                 </div>
                 <div class="name_goods">
@@ -239,11 +239,11 @@
             </div>
             <div class="element">
                 <div class="block_photo">
-                    <div class="col_1"><a class="ph_left" href="images/handbag/broun/2.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a></div>
+                    <div class="col_1"><a class="ph_left" href="images/handbag/broun/1.png" title="Портмоне" style="background-image: url('images/handbag/broun/1.png')"></a></div>
                     <div class="col_2">
-                        <a class="ph_right" href="images/handbag/broun/1.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
-                        <a class="ph_right" href="images/handbag/broun/3.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
-                        <a class="ph_right" href="images/handbag/broun/4.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
+                        <a class="ph_right" href="images/handbag/broun/2.png" title="Портмоне" style="background-image: url('images/handbag/broun/2.png')"></a>
+                        <a class="ph_right" href="images/handbag/broun/3.png" title="Портмоне" style="background-image: url('images/handbag/broun/3.png')"></a>
+                        <a class="ph_right" href="images/handbag/broun/4.png" title="Портмоне" style="background-image: url('images/handbag/broun/4.png')"></a>
                     </div>
                 </div>
                 <div class="name_goods">
@@ -272,11 +272,11 @@
             </div>
             <div class="element">
                 <div class="block_photo">
-                    <div class="col_1"><a class="ph_left" href="images/handbag/red/2.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a></div>
+                    <div class="col_1"><a class="ph_left" href="images/handbag/red/1.png" title="Портмоне" style="background-image: url('images/handbag/red/1.png')"></a></div>
                     <div class="col_2">
-                        <a class="ph_right" href="images/handbag/red/1.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
-                        <a class="ph_right" href="images/handbag/red/3.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
-                        <a class="ph_right" href="images/handbag/red/4.jpg" title="Портмоне" style="background-image: url('images/placeholder.png')"></a>
+                        <a class="ph_right" href="images/handbag/red/2.png" title="Портмоне" style="background-image: url('images/handbag/red/2.png')"></a>
+                        <a class="ph_right" href="images/handbag/red/3.png" title="Портмоне" style="background-image: url('images/handbag/red/3.png')"></a>
+                        <a class="ph_right" href="images/handbag/red/4.png" title="Портмоне" style="background-image: url('images/handbag/red/4.png')"></a>
                     </div>
                 </div>
                 <div class="name_goods">
