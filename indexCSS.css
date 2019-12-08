@@ -340,9 +340,18 @@ footer{
     font-weight: bold !important;
 }
 /*inf.commentsArrowsColor*/
-@media only screen and (max-width: 1075px){
-    .block{
-        justify-content: center !important;
-    }
-}
+/*@media only screen and (max-width: 600px){*/
+/*    .element{*/
+/*        width: 320px;*/
+/*    }*/
+/*    .block_photo{*/
+/*        width: 100%;*/
+/*        height: auto;*/
+/*        flex-direction: column;*/
+/*    }*/
+/*    .col_2{*/
+/*        display: flex;*/
+/*        flex-direction: row;*/
+/*    }*/
+/*}*/
 /*inf*/
