@@ -1,5 +1,5 @@
 <?php
-if(isset($_POST['number']) && isset($_POST['phone'])){
+if(isset($_POST['phone']) && isset($_POST['name'])){
 
     $phone = htmlspecialchars($_POST['phone']);
     $name = htmlspecialchars($_POST['name']);
@@ -13,10 +13,10 @@ if(isset($_POST['number']) && isset($_POST['phone'])){
 
         $goodInfo = htmlspecialchars($_POST['goodInfo']);
         $goodPrice = htmlspecialchars($_POST['goodPrice']);
-
+        print_r($phone);
         $message = "П.І.Б: $name; Тел: $phone; Місто: $city; email: $email";
-        $to = "vladgor1001@gmail.com";
-        $from = "vladgor1001@gmail.com";
+        $to = "ramraise@gmail.com";
+        $from = "ramraise@gmail.com";
         $subject = "$goodInfo + ' | ' + $goodPrice";
         $subject = "=?utf-8?B?".base64_encode($subject)."?=";
         $headers = "From: $from\r\nReply-to: $from\r\nContent-type: text/plain; charset=utf-8\r\n";
