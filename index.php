@@ -31,6 +31,7 @@
         <div class="dropdown">
             <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Меню
+                <i style="font-size: 20px" class="fas fa-bars"></i>
             </a>
             <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
                 <a class="dropdown-item" href="#portmone">ПОРТМОНЕ</a>

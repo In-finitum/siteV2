@@ -259,6 +259,9 @@ footer{
     .dropdown{
         display: block;
     }
+    .contacts_header{
+        border: none;
+    }
 }
 @media only screen and (max-width: 1400px){
     .nav{
@@ -313,6 +316,33 @@ footer{
     display: block !important;
     margin: 0 auto;
 }
-/*inf.commentsArrowsColor*/
 
+.btn-secondary{
+    background-color: transparent !important;
+    border: none !important;
+    font-weight: bold !important;
+    font-size: 19px !important;
+    outline: none !important;
+}
+.dropdown{
+    font-family: "Arial", Serif !important;
+}
+.dropdown-toggle::after{
+    display: none !important;
+}
+.dropdown:active{
+    border: none !important;
+}
+.btn-secondary:focus{
+    box-shadow: none !important;
+}
+.dropdown-item{
+    font-weight: bold !important;
+}
+/*inf.commentsArrowsColor*/
+@media only screen and (max-width: 1075px){
+    .block{
+        justify-content: center !important;
+    }
+}
 /*inf*/
