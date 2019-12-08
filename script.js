@@ -7,12 +7,18 @@ for(var i = 0; i < showForm.length; i++) {
 
         var form = document.getElementById('popup1');
         var div = document.createElement('div');
+        var divPrice = document.createElement('div');
 
         div.id = 'goodInfo';
+        divPrice.id = 'goodPrice';
         div.name = 'goodInfo';
+        divPrice.id = 'goodPrice';
         div.innerHTML = event.currentTarget.dataset.type;
+        divPrice.innerHTML = event.currentTarget.dataset.effect;
         // div.style.display = 'none';
+        // divPrice.style.display = 'none';
         form.appendChild(div);
+        form.appendChild(divPrice);
     });
 }
 
@@ -22,6 +28,8 @@ close_form.addEventListener('click', function () {
 
     // inf
     var div = document.getElementById('goodInfo');
+    var divPrice = document.getElementById('goodPrice');
     div.parentNode.removeChild(div);
+    divPrice.parentNode.removeChild(divPrice);
     // inf
 });
