@@ -47,9 +47,9 @@
         <form action="form.php" method="post" class="popup" id="popup1">
             <div id="close_form"><i class="fas fa-times"></i></div>
             <div class="h2">Оформити замовлення</div>
-            <label for="name">Ім'я, прізвище</label>
+            <label for="name">Ім'я, прізвище*</label>
             <input class="input" name="name" id="name" type="text" required>
-            <label for="phone">Телефон</label>
+            <label for="phone">Телефон*</label>
             <input class="number" name="phone" id="phone" type="text" required>
             <label for="city">Місто</label>
             <input class="input" name="city" id="city" type="text">
