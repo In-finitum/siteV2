@@ -294,5 +294,31 @@ footer{
 
 /*inf.adapt*/
 
+/*inf.commentsArrowsColor*/
+.commentsNextPrev{
+    position: relative;
+    display: block;
+    background-color: #292929;
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+}
+.carousel-control-next-icon{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-40%, -50%);
+    display: block !important;
+    margin: 0 auto;
+}
+.carousel-control-prev-icon{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-60%, -50%);
+    display: block !important;
+    margin: 0 auto;
+}
+/*inf.commentsArrowsColor*/
 
 /*inf*/
