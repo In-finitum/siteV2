@@ -11,12 +11,13 @@ if(isset($_POST['number']) && isset($_POST['name'])){
         && ((preg_match('/^([а-яёіїєґ\-\']+(\s)?)+$/iu', $city) || $city == null)
             || (preg_match('/^([a-z0-9_-]+\.)*[a-z0-9_-]+@[a-z0-9_-]+(\.[a-z0-9_-]+)*\.[a-z]{2,6}$/iu', $email) || $city == null))){
 
-        $type = htmlspecialchars($_POST['type']);
+        $goodInfo = htmlspecialchars($_POST['goodInfo']);
+        $goodPrice = htmlspecialchars($_POST['goodPrice']);
 
         $message = "П.І.Б: $name; Тел: $number; Місто: $city; email: $email";
         $to = "vladgor1001@gmail.com";
         $from = "vladgor1001@gmail.com";
-        $subject = "$type";
+        $subject = "$goodInfo + ' | ' + $goodPrice";
         $subject = "=?utf-8?B?".base64_encode($subject)."?=";
         $headers = "From: $from\r\nReply-to: $from\r\nContent-type: text/plain; charset=utf-8\r\n";
 
