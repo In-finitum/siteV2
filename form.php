@@ -1,12 +1,12 @@
 <?php
-if(isset($_POST['number']) && isset($_POST['name'])){
+if(isset($_POST['number']) && isset($_POST['phone'])){
 
-    $number = htmlspecialchars($_POST['number']);
+    $phone = htmlspecialchars($_POST['phone']);
     $name = htmlspecialchars($_POST['name']);
     $city = htmlspecialchars($_POST['city']);
     $email = htmlspecialchars($_POST['email']);
 
-    if(preg_match('/^\+ \(380\) [0-9]{9}$/iu', $number)
+    if(preg_match('/^\+ \(380\) [0-9]{9}$/iu', $phone)
         && preg_match('/^([а-яёіїєґ\-\']+(\s)?)+$/iu', $name)
         && ((preg_match('/^([а-яёіїєґ\-\']+(\s)?)+$/iu', $city) || $city == null)
             || (preg_match('/^([a-z0-9_-]+\.)*[a-z0-9_-]+@[a-z0-9_-]+(\.[a-z0-9_-]+)*\.[a-z]{2,6}$/iu', $email) || $city == null))){
@@ -14,7 +14,7 @@ if(isset($_POST['number']) && isset($_POST['name'])){
         $goodInfo = htmlspecialchars($_POST['goodInfo']);
         $goodPrice = htmlspecialchars($_POST['goodPrice']);
 
-        $message = "П.І.Б: $name; Тел: $number; Місто: $city; email: $email";
+        $message = "П.І.Б: $name; Тел: $phone; Місто: $city; email: $email";
         $to = "vladgor1001@gmail.com";
         $from = "vladgor1001@gmail.com";
         $subject = "$goodInfo + ' | ' + $goodPrice";
