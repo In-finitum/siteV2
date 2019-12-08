@@ -52,7 +52,7 @@
             <label for="name">Ім'я, прізвище*</label>
             <input class="input" name="name" id="name" type="text" required>
             <label for="phone">Телефон*</label>
-            <input class="number" name="phone" id="phone" type="text" required>
+            <input class="number" name="phone" id="phone" type="text" value="+ (380) " required>
             <label for="city">Місто</label>
             <input class="input" name="city" id="city" type="text">
             <label for="email">Електронна пошта</label>
