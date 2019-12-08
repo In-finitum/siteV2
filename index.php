@@ -25,7 +25,7 @@
                 <li><a href="#">БЛОКНОТИ</a></li>
                 <li><a href="#">БАНАНКИ</a></li>
                 <li><a href="#">ВІДГУКИ</a></li>
-                <li><a href="#">ПРО НАС</a></li>
+<!--                <li><a href="#">ПРО НАС</a></li>-->
             </ul>
         <div class="dropdown">
             <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
