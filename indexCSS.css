@@ -253,9 +253,6 @@ footer{
 /*inf.adapt.header*/
 
 @media only screen and (max-width: 1045px){
-    .contacts_header{
-        display: none !important;
-    }
     .nav{
         justify-content: space-around !important;
     }

@@ -21,25 +21,24 @@
     <nav class="nav">
         <div class="logo_header"><a href="index.php">PELLETTERIA</a></div>
             <ul>
-                <li><a href="#">ПОРТМОНЕ</a></li>
+                <li><a href="#portmone">ПОРТМОНЕ</a></li>
                 <li><a href="#">БЛОКНОТИ</a></li>
                 <li><a href="#">БАНАНКИ</a></li>
                 <li><a href="#">ВІДГУКИ</a></li>
-<!--                <li><a href="#">ПРО НАС</a></li>-->
             </ul>
+        <div class="contacts_header">+38(093)9228738</div>
         <div class="dropdown">
             <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Меню
             </a>
             <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                <a class="dropdown-item" href="#">ПОРТМОНЕ</a>
+                <a class="dropdown-item" href="#portmone">ПОРТМОНЕ</a>
                 <a class="dropdown-item" href="#">БЛОКНОТИ</a>
                 <a class="dropdown-item" href="#">БАНАНКИ</a>
                 <a class="dropdown-item" href="#">ВІДГУКИ</a>
                 <a class="dropdown-item" href="#">ПРО НАС</a>
             </div>
         </div>
-        <div class="contacts_header">+38(093)9228738</div>
     </nav>
 </header>
 <!--testform-->
@@ -75,7 +74,7 @@
 
     <!--    blocks1 begin-->
     <div class="blocksField">
-        <div class="catalog_blocks"">КАТАЛОГ</div>
+        <div class="catalog_blocks" id="portmone">КАТАЛОГ</div>
         <div class="header_blocks">ПОРТМОНЕ</div>
         <div class="block">
             <div class="element">
@@ -502,15 +501,11 @@
                 </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-                <span class="commentsNextPrev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                </span>
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                 <span class="sr-only">Previous</span>
             </a>
             <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-                <span class="commentsNextPrev">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                </span>
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
                 <span class="sr-only">Next</span>
             </a>
         </div>
