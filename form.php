@@ -23,10 +23,10 @@ if(isset($_POST['number']) && isset($_POST['name'])){
 
         mail($to, $subject, $message, $headers);
 
-        header('Location: order.php');
+        // header('Location: order.php');
     }
     else{
-        header('Location: index.php?check');
+        // header('Location: index.php?check');
     }
 }
 ?>
