@@ -13,7 +13,7 @@ if(isset($_POST['phone']) && isset($_POST['name'])){
 
         $goodInfo = htmlspecialchars($_POST['goodInfo']);
         $goodPrice = htmlspecialchars($_POST['goodPrice']);
-        print_r($phone);
+
         $message = "П.І.Б: $name; Тел: $phone; Місто: $city; email: $email";
         $to = "ramraise@gmail.com";
         $from = "ramraise@gmail.com";
@@ -22,8 +22,7 @@ if(isset($_POST['phone']) && isset($_POST['name'])){
         $headers = "From: $from\r\nReply-to: $from\r\nContent-type: text/plain; charset=utf-8\r\n";
 
         mail($to, $subject, $message, $headers);
-
-        // header('Location: order.php');
+        header('Location: index.php');
     }
     else{
         // header('Location: index.php?check');
