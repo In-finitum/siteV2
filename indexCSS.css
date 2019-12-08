@@ -138,14 +138,11 @@ header ul li a:hover{
 .header_blocks, .header_feedback{
     font-size: 45px;
     font-weight: bold;
-    padding-top: 40px;
-    padding-bottom: 40px;
-    text-align: center;
-}
-.header_blocks{
     padding-top: 20px;
     padding-bottom: 20px;
+    text-align: center;
 }
+
 .block_photo{
     height: 320px;
     width: 100%;

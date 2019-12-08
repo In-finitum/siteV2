@@ -25,6 +25,7 @@
                 <li><a href="#notepad">БЛОКНОТИ</a></li>
                 <li><a href="#handbag">БАНАНКИ</a></li>
                 <li><a href="#reviews">ВІДГУКИ</a></li>
+                <li><a href="#contacts">КОНТАКТИ</a></li>
             </ul>
         <div class="contacts_header">+38(093)9228738</div>
         <div class="dropdown">
@@ -36,6 +37,7 @@
                 <a class="dropdown-item" href="#notepad">БЛОКНОТИ</a>
                 <a class="dropdown-item" href="#handbag">БАНАНКИ</a>
                 <a class="dropdown-item" href="#reviews">ВІДГУКИ</a>
+                <a class="dropdown-item" href="#contacts">КОНТАКТИ</a>
             </div>
         </div>
     </nav>
@@ -73,8 +75,8 @@
 
     <!--    blocks1 begin-->
     <div class="blocksField">
-        <div class="catalog_blocks" id="portmone">КАТАЛОГ</div>
-        <div class="header_blocks">ПОРТМОНЕ</div>
+        <div class="catalog_blocks">КАТАЛОГ</div>
+        <div class="header_blocks" id="portmone">ПОРТМОНЕ</div>
         <div class="block">
             <div class="element">
                 <div class="block_photo">
@@ -203,7 +205,7 @@
                         -Ціна роздрібна: 800-1000 грн.<br>
                     </div>
                 </div>
-                <div id="handbag" class="footer_element">
+                <div class="footer_element">
                     <div class="price">&#x20b4; 850</div>
                     <div class="show_popup" data-effect="850 грн" data-type="PORTMONE RED">ЗАМОВИТИ</div>
                 </div>
@@ -213,7 +215,7 @@
     <!--    blocks1 end-->
     <!--    blocks2 begin-->
     <div class="blocksField">
-        <div class="header_blocks" >БАНАНКИ</div>
+        <div class="header_blocks" id="handbag">БАНАНКИ</div>
         <div class="block">
             <div class="element">
                 <div class="block_photo">
@@ -308,7 +310,7 @@
                         -Ціна роздрібна: 800-1000 грн.<br>
                     </div>
                 </div>
-                <div id="notepad" class="footer_element" >
+                <div class="footer_element" >
                     <div class="price">&#x20b4; 480</div>
                     <div class="show_popup" data-effect="850 грн" data-type="PORTMONE RED">ЗАМОВИТИ</div>
                 </div>
@@ -318,8 +320,8 @@
     <!--    blocks2 end-->
     <!--    blocks3 begin-->
 
-    <div id="notepad" class="blocksField" >
-        <div class="header_blocks" >БЛОКНОТИ</div>
+    <div  class="blocksField">
+        <div class="header_blocks" id="notepad">БЛОКНОТИ</div>
         <div class="block">
             <div class="element">
                 <div class="block_photo">
@@ -446,7 +448,7 @@
                         -Ціна роздрібна: 600-800грн.<br>
                     </div>
                 </div>
-                <div id="reviews" class="footer_element">
+                <div  class="footer_element">
                     <div class="price">&#x20b4; 720</div>
                     <div class="show_popup" data-effect="850 грн" data-type="PORTMONE RED">ЗАМОВИТИ</div>
                 </div>
@@ -459,7 +461,7 @@
 
 </main>
 <div  class="feedback_block">
-    <div class="header_feedback">ВІДГУКИ</div>
+    <div class="header_feedback" id="reviews">ВІДГУКИ</div>
     <div class="feedback_container">
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" style="height: 100%">
             <div class="carousel-inner" style="height: 100%">
@@ -511,7 +513,7 @@
         </div>
     </div>
 </div>
-<footer>
+<footer id="contacts">
     <div>
         <p class="text_contacts">КОНТАКТИ</p>
     </div>
