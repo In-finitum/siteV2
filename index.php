@@ -9,8 +9,6 @@
     <link rel="shortcut icon" href="/images/leathernotebook_notes_book_6981.ico">
     <link rel="stylesheet" href="indexCSS.css">
     <link rel="stylesheet" href="formCSS.css">
-    <!-- Magnific Popup core CSS file -->
-    <link rel="stylesheet" href="jquery/magnific-popup.css">
     <!-- For icon links -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
           integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
@@ -44,7 +42,7 @@
         </div>
     </nav>
 </header>
-<!--testform-->
+<!--Form-->
 <div id="fill_form">
     <div class="center_form">
         <form action="form.php" method="post" class="popup" id="popup1">
@@ -62,7 +60,7 @@
         </form>
     </div>
 </div>
-<!--testform-->
+<!--Form-->
 <main>
     <div id="background">
         <!--        background photo-->
