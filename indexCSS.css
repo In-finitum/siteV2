@@ -204,6 +204,7 @@ header ul li a:hover{
     background-color: #292929;
     color: white;
     cursor: pointer;
+    transition-duration: 300ms;
 }
 .popup-gallery{
     width: 200px;
@@ -244,6 +245,9 @@ footer{
 }
 .dropdown{
     display: none;
+}
+.show_popup:hover{
+    background-color: #c59d5f;
 }
 /*inf.asdsadsadsadgoods*/
 
