@@ -349,6 +349,15 @@ footer{
         flex-flow: column;
     }
 }
+@media only screen and (max-width: 330px){
+    #logo>div>div:first-child{
+        font-size: 68px;
+        padding-top: 140px;
+    }
+    .feedback_container{
+        width: 300px !important;
+    }
+}
 .feedback_block{
     background-color: rgba(245,245,245,0.96);
     padding-bottom: 50px;
