@@ -302,6 +302,36 @@ footer{
     .header_blocks{
         padding-top: 0;
     }
+    .element{
+        width: 320px;
+    }
+    .block_photo{
+        height: 360px;
+        flex-flow: column;
+    }
+    .col_1{
+        margin: 0;
+        width: 100%;
+    }
+    .col_2{
+        display: flex;
+        margin-top: 5px;
+    }
+    .col_2 a{
+        margin-right: 5px;
+    }
+    .col_2 a:last-child{
+        margin: 0;
+    }
+    .ph_left{
+        width: 100%;
+    }
+    .name_goods{
+        margin-top: 15px;
+    }
+    a{
+        background-position: center !important;
+    }
 }
 .feedback_block{
     background-color: rgba(245,245,245,0.96);
