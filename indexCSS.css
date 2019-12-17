@@ -345,6 +345,9 @@ footer{
     .contacts>div:last-child{
         margin-top: 10px;
     }
+    .description{
+        flex-flow: column;
+    }
 }
 .feedback_block{
     background-color: rgba(245,245,245,0.96);
