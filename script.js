@@ -15,6 +15,16 @@ for(var i = 0; i < showForm.length; i++) {
         divPrice.id = 'goodPrice';
         div.innerHTML = event.currentTarget.dataset.type;
         divPrice.innerHTML = event.currentTarget.dataset.effect;
+        div.style.backgroundColor = '#5EC55C';
+        divPrice.style.backgroundColor = '#5EC55C';
+        div.style.textAlign = 'center';
+        div.style.padding = '5 px';
+        div.style.borderRadius = '20px';
+        div.style.marginTop = "15px";
+        divPrice.style.textAlign = 'center';
+        divPrice.style.padding = '5 px';
+        divPrice.style.borderRadius = '20px';
+        divPrice.style.marginTop = "5px";
         // div.style.display = 'none';
         // divPrice.style.display = 'none';
         form.appendChild(div);

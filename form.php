@@ -15,14 +15,14 @@ if(isset($_POST['phone']) && isset($_POST['name'])){
         $goodPrice = htmlspecialchars($_POST['goodPrice']);
 
         $message = "П.І.Б: $name;\nТел: $phone;\nМісто: $city;\nE-mail: $email";
-        $to = 'ramraise@gmail.com';
-        $from = 'ramraise@gmail.com';
+        $to = 'vladgor1001@gmail.com';
+        $from = 'vladgor1001@gmail.com';
         $subject = "$goodInfo + ' | ' + $goodPrice";
         $subject = "=?utf-8?B?".base64_encode($subject)."?=";
         $headers = "From: $from\r\nReply-to: $from\r\nContent-type: text/plain; charset=utf-8\r\n";
 
         mail($to, $subject, $message, $headers);
-        header('Location: /');
+        header('Location: index.php');
     }
     else{
         // header('Location: index.php?check');

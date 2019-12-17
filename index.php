@@ -104,8 +104,8 @@
                     </div>
                 </div>
                 <div class="footer_element">
-                    <div class="price">&#x20b4; 850</div>
-                    <div class="show_popup" data-effect="850 грн" data-type="PORTMONE BLACK">ЗАМОВИТИ</div>
+                    <div class="price">&#x20b4; 750</div>
+                    <div class="show_popup" data-effect="750 грн" data-type="Портмоне чорне">ЗАМОВИТИ</div>
                 </div>
             </div>
             <div class="element">
@@ -134,8 +134,8 @@
                     </div>
                 </div>
                 <div class="footer_element">
-                    <div class="price">&#x20b4; 850</div>
-                    <div class="show_popup" data-effect="850 грн" data-type="PORTMONE BRAUN">ЗАМОВИТИ</div>
+                    <div class="price">&#x20b4; 750</div>
+                    <div class="show_popup" data-effect="750 грн" data-type="Портмоне червоне">ЗАМОВИТИ</div>
                 </div>
             </div>
             <div class="element">
@@ -164,8 +164,8 @@
                     </div>
                 </div>
                 <div class="footer_element">
-                    <div class="price">&#x20b4; 850</div>
-                    <div class="show_popup" data-effect="850 грн" data-type="PORTMONE GREEN">ЗАМОВИТИ</div>
+                    <div class="price">&#x20b4; 750</div>
+                    <div class="show_popup" data-effect="750 грн" data-type="Портмоне зелене">ЗАМОВИТИ</div>
                 </div>
             </div>
             <div class="element">
@@ -194,8 +194,8 @@
                     </div>
                 </div>
                 <div class="footer_element">
-                    <div class="price">&#x20b4; 850</div>
-                    <div class="show_popup" data-effect="850 грн" data-type="PORTMONE RED">ЗАМОВИТИ</div>
+                    <div class="price">&#x20b4; 750</div>
+                    <div class="show_popup" data-effect="750 грн" data-type="Портмоне коричневе">ЗАМОВИТИ</div>
                 </div>
             </div>
         </div>
@@ -230,8 +230,8 @@
                     </div>
                 </div>
                 <div class="footer_element">
-                    <div class="price">&#x20b4; 520</div>
-                    <div class="show_popup" data-effect="850 грн" data-type="PORTMONE RED">ЗАМОВИТИ</div>
+                    <div class="price">&#x20b4; 1150</div>
+                    <div class="show_popup" data-effect="1150 грн" data-type="Бананка чорна">ЗАМОВИТИ</div>
                 </div>
             </div>
             <div class="element">
@@ -260,8 +260,8 @@
                     </div>
                 </div>
                 <div class="footer_element">
-                    <div class="price">&#x20b4; 480</div>
-                    <div class="show_popup" data-effect="850 грн" data-type="PORTMONE RED">ЗАМОВИТИ</div>
+                    <div class="price">&#x20b4; 1150</div>
+                    <div class="show_popup" data-effect="1150 грн" data-type="Бананка коричнева">ЗАМОВИТИ</div>
                 </div>
             </div>
             <div style="margin: 0 auto" class="element">
@@ -290,8 +290,8 @@
                     </div>
                 </div>
                 <div class="footer_element" >
-                    <div class="price">&#x20b4; 480</div>
-                    <div class="show_popup" data-effect="850 грн" data-type="PORTMONE RED">ЗАМОВИТИ</div>
+                    <div class="price">&#x20b4; 1150</div>
+                    <div class="show_popup" data-effect="1150 грн" data-type="Бананка червона">ЗАМОВИТИ</div>
                 </div>
             </div>
         </div>
@@ -328,8 +328,8 @@
                     </div>
                 </div>
                 <div class="footer_element">
-                    <div class="price">&#x20b4; 640</div>
-                    <div class="show_popup" data-effect="850 грн" data-type="PORTMONE RED">ЗАМОВИТИ</div>
+                    <div class="price">&#x20b4; 600</div>
+                    <div class="show_popup" data-effect="600 грн" data-type="Блокнот чорний">ЗАМОВИТИ</div>
                 </div>
             </div>
             <div class="element">
@@ -358,8 +358,8 @@
                     </div>
                 </div>
                 <div class="footer_element">
-                    <div class="price">&#x20b4; 720</div>
-                    <div class="show_popup" data-effect="850 грн" data-type="PORTMONE RED">ЗАМОВИТИ</div>
+                    <div class="price">&#x20b4; 600</div>
+                    <div class="show_popup" data-effect="600 грн" data-type="Блокнот коричневий">ЗАМОВИТИ</div>
                 </div>
             </div>
             <div class="element">
@@ -387,8 +387,8 @@
                     </div>
                 </div>
                 <div class="footer_element">
-                    <div class="price">&#x20b4; 620</div>
-                    <div class="show_popup" data-effect="850 грн" data-type="PORTMONE RED">ЗАМОВИТИ</div>
+                    <div class="price">&#x20b4; 600</div>
+                    <div class="show_popup" data-effect="600 грн" data-type="Блокнот червоний">ЗАМОВИТИ</div>
                 </div>
             </div>
             <div class="element">
@@ -416,8 +416,8 @@
                     </div>
                 </div>
                 <div  class="footer_element">
-                    <div class="price">&#x20b4; 720</div>
-                    <div class="show_popup" data-effect="850 грн" data-type="PORTMONE RED">ЗАМОВИТИ</div>
+                    <div class="price">&#x20b4; 600</div>
+                    <div class="show_popup" data-effect="600 грн" data-type="Блокнот зелений">ЗАМОВИТИ</div>
                 </div>
             </div>
         </div>
