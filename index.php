@@ -499,7 +499,7 @@
         </div>
         <div>
             <a style="display: none" class="footer_img" href="" title="Facebook"><img src="images/facebook_icon.png" alt=""></a>
-            <a class="footer_img" href="" title="Instagram"><img src="images/instagram_icon.png" alt=""></a>
+            <a class="footer_img" href="https://www.instagram.com/pelletteria_ua/?igshid=b6d010h6e1w4" title="Instagram"><img src="images/instagram_icon.png" alt=""></a>
         </div>
     </div>
 </footer>
