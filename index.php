@@ -5,7 +5,8 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge, chrome=1">
-    <title>Document</title>
+    <title>Pelletteria</title>
+    <link rel="shortcut icon" href="/images/leathernotebook_notes_book_6981.ico">
     <link rel="stylesheet" href="indexCSS.css">
     <link rel="stylesheet" href="formCSS.css">
     <!-- Magnific Popup core CSS file -->
@@ -27,7 +28,7 @@
                 <li><a href="#reviews">ВІДГУКИ</a></li>
                 <li><a href="#contacts">КОНТАКТИ</a></li>
             </ul>
-        <div class="contacts_header">+38(093)9228738</div>
+        <div class="contacts_header">+380 931694590</div>
         <div class="dropdown">
             <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Меню
@@ -283,7 +284,7 @@
                     <div class="show_popup" data-effect="850 грн" data-type="PORTMONE RED">ЗАМОВИТИ</div>
                 </div>
             </div>
-            <div class="element">
+            <div style="margin: 0 auto" class="element">
                 <div class="block_photo">
                     <div class="col_1"><a class="ph_left" href="images/handbag/red/1.png" title="Портмоне" style="background-image: url('images/handbag/red/1.png')"></a></div>
                     <div class="col_2">
@@ -525,14 +526,14 @@
     <div class="contacts">
         <div>
             <div class="text_phone_email">ТЕЛЕФОН</div>
-            <div class="data">+380 (93) 922 87 38   Telegram. Viber</div>
+            <div class="data">+380 931694590   Telegram. Viber</div>
         </div>
         <div>
             <div class="text_phone_email">ПОШТА</div>
-            <div class="data">Paradaryna@gmail.com</div>
+            <div class="data">vladgor1001@gmail.com</div>
         </div>
         <div>
-            <a class="footer_img" href="" title="Facebook"><img src="images/facebook_icon.png" alt=""></a>
+            <a style="display: none" class="footer_img" href="" title="Facebook"><img src="images/facebook_icon.png" alt=""></a>
             <a class="footer_img" href="" title="Instagram"><img src="images/instagram_icon.png" alt=""></a>
         </div>
     </div>
