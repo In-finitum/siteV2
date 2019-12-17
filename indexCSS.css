@@ -278,7 +278,25 @@ footer{
         justify-content: center !important;
     }
 }
-
+@media only screen and (max-width: 425px){
+    .nav div:nth-child(3){
+        order: 4 !important;
+    }
+    .dropdown-menu{
+        left: -40px !important;
+        text-align: center !important;
+    }
+    .contacts_header{
+        margin-top: 10px;
+    }
+    header{
+        padding-bottom: 10px;
+    }
+    #logo>div>div:first-child{
+        font-size: 75px;
+        padding-top: 120px;
+    }
+}
 .feedback_block{
     background-color: rgba(245,245,245,0.96);
     padding-bottom: 50px;
