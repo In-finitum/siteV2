@@ -357,6 +357,10 @@ footer{
     .feedback_container{
         width: 300px !important;
     }
+    .dropdown-menu{
+        left: -20px !important;
+        text-align: center !important;
+    }
 }
 .feedback_block{
     background-color: rgba(245,245,245,0.96);
