@@ -332,6 +332,19 @@ footer{
     a{
         background-position: center !important;
     }
+    .feedback_container{
+        width: 340px !important;
+    }
+    #contacts>div:first-child{
+        text-align: center;
+    }
+    .contacts{
+        flex-flow: column;
+        margin-bottom: 10px;
+    }
+    .contacts>div:last-child{
+        margin-top: 10px;
+    }
 }
 .feedback_block{
     background-color: rgba(245,245,245,0.96);
